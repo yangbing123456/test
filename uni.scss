@@ -1,0 +1,247 @@
+@import 'uview-ui/theme.scss';
+
+// 全局重置样式
+.all{
+	padding: 0 32rpx;
+}
+*{
+	padding: 0rpx;
+	margin: 0rpx;
+	box-sizing: border-box;
+}
+
+.df{
+	display: flex;
+}
+.jcsb{
+	justify-content: space-between;
+}
+.jcsa{
+	justify-content: space-around;
+}
+.jcse{
+	justify-content: space-evenly;
+}
+.jcc{
+	justify-content: center;
+}
+.jce{
+	justify-content: flex-end;
+}
+.jcs{
+	justify-content: flex-start;
+}
+.aic{
+	align-items: center;
+}
+.aifs{
+	align-items: flex-start;
+}
+.aife{
+	align-items: flex-end;
+}
+.fn{
+	flex: none;
+}
+.f1{
+	flex: 1;
+}
+.fdc{
+	flex-direction: column;
+}
+.mt10{
+	margin-top: 20rpx;
+}
+.mt20{
+	margin-top: 40rpx;
+}
+.mt16{
+	margin-top: 32rpx;
+}
+.mt35{
+	margin-top: 70rpx;
+}
+.mt40{
+	margin-top: 80rpx;
+}
+.mt50{
+	margin-top: 100rpx;
+}
+.md16{
+	margin-bottom: 32rpx;
+}
+.mr8{
+	margin-right: 16rpx;
+}
+.mr32{
+	margin-right: 32rpx;
+}
+.mr9{
+	margin-right: 18rpx;
+}
+.mr15{
+	margin-right: 30rpx;
+}
+.mr10{
+	margin-right: 10rpx;
+}
+.ml8{
+	margin-left: 16rpx;
+}
+.mt8{
+	margin-top: 16rpx;
+}
+.mt64{
+	margin-top: 128rpx;
+}
+.mb30{
+	margin-bottom: 60rpx;
+}
+.mb10{
+	margin-bottom: 20rpx;
+}
+.mb50{
+	margin-bottom: 114rpx;
+}
+.mb41{
+	margin-bottom: 82rpx;
+}
+.m{
+	margin: 46rpx 0;
+}
+.mt9{
+	margin-top: 18rpx;
+}
+.mb8{
+	margin-bottom: 16rpx;
+}
+.mb4{
+	margin-bottom: 8rpx;
+}
+a{
+	text-decoration: none;
+}
+.fz14{
+	font-size: 28rpx;
+}
+.fz12{
+	font-size: 24rpx;
+}
+.fz18{
+	font-size: 36rpx;
+}
+.fz20{
+	font-size: 40rpx;
+}
+.fz16{
+	font-size: 32rpx;
+}
+.fz40{
+	font-size: 80rpx;
+}
+.fz28{
+	font-size: 56rpx;
+}
+.fz10{
+	font-size: 20rpx;
+}
+.fz24{
+	font-size: 48rpx;
+}
+.fz32{
+	font-size: 64rpx;
+}
+.fwb{
+	font-weight: bold;
+}
+.fwn{
+	font-weight: normal;
+}
+.fwm{
+	font-size: 28rpx;
+}
+.gray{
+	color: #757575;
+}
+.nineD{
+	color: #9d9e9e;
+}
+.fff{
+	color: #fff;
+}
+.f75{
+	color: #f75555;
+}
+.twoOne{
+	color: #212121;
+}
+.green{
+	color: #12d18e;
+}
+.c71{
+	color: #717171;
+}
+// 隐私政策的下划线
+.privacy {
+	text-decoration: underline;
+}
+
+.black {
+	color: black;
+}
+.sign {
+	color: #12d18e;
+}
+
+.cs{
+	border: 1px solid #12d18e;
+}
+
+// 问卷调查选项的样式
+.option {
+		width: 590rpx;
+		height: 96rpx;
+		border-radius: 32rpx;
+		margin-bottom: 16rpx;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 0 40rpx;
+
+		&:hover {
+			color: white;
+			background-color: #12d18e;
+		}
+	}
+
+.img {
+		width: 48rpx;
+		height: 48rpx;
+}
+// 宽高全局样式
+.wh8{
+	width: 16rpx;
+	height: 16rpx;
+}
+.wh14{
+	width: 28rpx;
+	height: 28rpx;
+}
+.wh16{
+	width: 32rpx;
+	height: 32rpx;
+}
+.wh24{
+	width: 48rpx;
+	height: 48rpx;
+}
+.wh32{
+	width: 64rpx;
+	height: 64rpx;
+}
+// 语言切换按钮样式
+.changeLanguage {
+		width: 176rpx;
+		height: 64rpx;
+		border-radius: 64rpx;
+	}

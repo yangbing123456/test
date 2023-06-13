@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "交易走势图",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs"
+  }
+}

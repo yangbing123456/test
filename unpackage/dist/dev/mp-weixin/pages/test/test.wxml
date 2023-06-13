@@ -1,0 +1,1 @@
+<view class="content"><view class="echarts" prop="{{option}}" change:prop="{{echarts.updateEcharts}}" id="echarts"></view>你好啊</view>

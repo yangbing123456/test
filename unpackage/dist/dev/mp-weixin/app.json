@@ -1,0 +1,76 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/home/page1",
+    "pages/home/page2",
+    "pages/login/login",
+    "pages/price/price",
+    "pages/transaction/transaction",
+    "pages/transaction/trendchart",
+    "pages/property/property",
+    "pages/register/register",
+    "pages/personInfo/personInfo",
+    "pages/investigate/investigate",
+    "pages/investigate/investigate2",
+    "pages/investigate/investigate3",
+    "pages/investigate/investigate4",
+    "pages/investigate/investigate5",
+    "pages/investigate/investigate6",
+    "pages/investigate/investigate7",
+    "pages/investigate/investigate8",
+    "pages/investigate/investigate9",
+    "pages/finish/finish",
+    "pages/userInfo/userInfo",
+    "pages/userInfo/birthday",
+    "pages/userInfo/adress",
+    "pages/userInfo/phone",
+    "common/userInfo-com/common-part/common-part",
+    "pages/term/term",
+    "pages/check/check",
+    "pages/selfie/selfie",
+    "pages/select/select",
+    "pages/test/test",
+    "pages/Upload/Upload",
+    "pages/Upload/btnDisabled"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#12D18E",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/fonts/home.png",
+        "selectedIconPath": "static/fonts/home-s.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/price/price",
+        "iconPath": "static/fonts/price.png",
+        "selectedIconPath": "static/fonts/price-s.png",
+        "text": "行情"
+      },
+      {
+        "pagePath": "pages/transaction/transaction",
+        "iconPath": "static/fonts/transaction.png",
+        "selectedIconPath": "static/fonts/transaction-s.png",
+        "text": "交易"
+      },
+      {
+        "pagePath": "pages/property/property",
+        "iconPath": "static/fonts/property.png",
+        "selectedIconPath": "static/fonts/property.png",
+        "text": "资产"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

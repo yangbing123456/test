@@ -1,0 +1,1000 @@
+{
+    "home": {
+        "home": {
+            "5qz9yji27ew0": "Contul de numerar A",
+            "5qz9yji28vs0": "Total portofel",
+            "5qz9yji29780": "Sold disponibil",
+            "5qz9yji29fk0": "Stocuri fierbinți",
+            "5qz9yji2j900": "Nume",
+            "5qz9yji2k4g0": "Tip (stoc/index etc.)",
+            "5qz9yji2kds0": "Faceți clic pentru a trece la pagina de conectare",
+            "5qz9yji2kj80": "Stocul 1",
+            "5qz9yji2kts0": "Stocul 2",
+            "5qz9yji2kz80": "Stocul 3",
+            "5qz9yji2l780": "Stoc 4",
+            "5qz9yji2lhk0": "Stocuri",
+            "5qz9yji2lsg0": "Index",
+            "5qz9yji2lyo0": "Ulei brut",
+            "5qz9yji2m840": "Rata corectă"
+        }
+    },
+    "price": {
+        "price": {
+            "5qzag43g3h80": "Vă rugăm să introduceți cuvintele cheie de căutare",
+            "5qzag43g4m80": "Nume/Cifra de afaceri",
+            "5qzag43g4ww0": "Schimbarea orei",
+            "5qzag43g5200": "Ultimul preț",
+            "5qzag43g56s0": "Opțional",
+            "5qzag43g5c00": "Fierbinte",
+            "5qzag43g5gg0": "Oferte de weekend",
+            "5qzag43g5n80": "Marfă",
+            "5qzag43g5sw0": "Piața petrolului",
+            "5r02nqlr0qk0": "100 de milioane"
+        }
+    },
+    "transaction": {
+        "transaction": {
+            "5qzwxhl8dp80": "Cumpărați",
+            "5qzwxhl8esw0": "Vând",
+            "5qzwxhl8ey00": "Disponibil",
+            "5qzwxhl8f100": "Suma (BTC)",
+            "5qzwxhl8f400": "Cerința de marjă",
+            "5qzwxhl8f780": "Cumpărați, când ajunge prețul",
+            "5qzwxhl8fa40": "Valabil până la",
+            "5qzwxhl8feg0": "Data de adăugare",
+            "5qzwxhl8fho0": "Opriți pierderea",
+            "5qzwxhl8fkc0": "Normal",
+            "5qzwxhl8fn00": "Cifra",
+            "5qzwxhl8fps0": "Opțiuni deschise",
+            "5qzwxhl8fs80": "Nivelul prețului",
+            "5qzwxhl8fuw0": "Preț",
+            "5qzwxhl8fxg0": "Cantitate",
+            "5qzwxhl8g0g0": "Nu există date încă",
+            "5qzwxhl8g300": "Vă rugăm să introduceți un cuvânt cheie de căutare",
+            "5qzwxhl8g5g0": "Marja",
+            "5qzwxhl8g7w0": "Suma necesară pentru a începe tranzacționarea",
+            "5qzwxhl8gbk0": "OK",
+            "5qzwxhl8gg00": "Adăugați un memento",
+            "5qzwxhl8gi80": "Adăugați la favorite",
+            "5qzwxhl8gks0": "Formular de desemnare",
+            "5qzwxhl8gmo0": "Confirmați",
+            "5qzwxhl8gp00": "Adâncimea de afișare a tabelului de încredințare",
+            "5qzwxhl8gqw0": "Comanda",
+            "5qzwxhl8gt00": "Introducere",
+            "5qzwxhl8gus0": "Știri",
+            "5qzwxhl8gww0": "Implicit",
+            "5qzwxhl8gzs0": "Afișează cumpără",
+            "5qzwxhl8h1o0": "Afișează vânzarea",
+            "5qzwzzrx5is0": "Pierdere",
+            "5qzwzzrx71s0": "cifre",
+            "5qzwzzrx7980": "Profit",
+            "5qzwzzrx7d40": "Cel mai mare",
+            "5qzwzzrx7gw0": "Minim",
+            "5qzwzzrx7kg0": "Suma tranzacției"
+        },
+        "trendchart": {
+            "5r02ub67ypw0": "Cel mai mare",
+            "5r02ub6802s0": "Minim",
+            "5r02ub680e00": "Suma tranzacției",
+            "5r02ub680k80": "Încă nu există date",
+            "5r02ub680pw0": "Comanda",
+            "5r02ub680vo0": "Hartă de adâncime",
+            "5r02ub681100": "Cel mai recentă tranzacție"
+        }
+    },
+    "property": {
+        "property": {
+            "5qzx1gr7b0s0": "cont de numerar a"
+        }
+    },
+    "common": {
+        "GupiaoComponent": {
+            "5qzx35qf9m00": "Portofoliul meu",
+            "5qzx35qfb7k0": "Nume",
+            "5qzx35qfbis0": "Tip (stoc/index etc.)",
+            "5qzx35qfbp40": "Stocul 1",
+            "5qzx35qfbu40": "Stocul 2",
+            "5qzx35qfbzs0": "Stocul 3",
+            "5qzx35qfc5w0": "Stoc 4"
+        },
+        "pagination": {
+            "5qzxas4nxn40": "Chestionar",
+            "5qzxas4nz480": "Comutator de limbă",
+            "5qzxas4nzg40": "Imagine cu efect de mișcare"
+        }
+    },
+    "login": {
+        "login": {
+            "5qzx4k4llao0": "Comutator de limbă",
+            "5qzx4k4lmrk0": "Continuați cu Apple",
+            "5qzx4k4ln7s0": "Folosiți Google pentru a continua",
+            "5qzx4k4lnew0": "Folosiți Facebook pentru a continua",
+            "5qzx4k4lnk80": "Continuați cu e-mailul",
+            "5qzx4k4lnq40": "Ai deja un cont?",
+            "5qzx4k4lnvo0": "Autentificare",
+            "5qzx4k4lo5o0": "Prin deschiderea unui cont, sunt de acord",
+            "5qzx4k4lock0": "Politica de confidențialitate",
+            "5qzx4k4lohw0": "Tranzacționarea este riscantă și ați putea pierde tot capitalul investit."
+        }
+    },
+    "register": {
+        "register": {
+            "5qzx5pfvva40": "Înregistrare prin e-mail",
+            "5qzx5pfvwhw0": "Comutator limbă",
+            "5qzx5pfvwqc0": "Bine ați venit să vă înregistrați",
+            "5qzx5pfvwvw0": "Cutie poștală",
+            "5qzx5pfvx140": "Vă rugăm să introduceți numărul căsuței dvs. poștale",
+            "5qzx5pfvx7g0": "Parola",
+            "5qzx5pfvxcw0": "Vă rugăm să introduceți parola de e-mail",
+            "5qzx5pfvxhw0": "Prin deschiderea unui cont, sunt de acord",
+            "5qzx5pfvxn40": "Politica de confidențialitate",
+            "5qzx5pfvxs40": "Continuați",
+            "5qzx5pfvxxg0": "Ai deja un cont?",
+            "5qzx5pfvy2o0": "Autentificare"
+        }
+    },
+    "personInfo": {
+        "personInfo": {
+            "5qzx7hnlw2k0": "Reședința și naționalitatea",
+            "5qzx7hnlx0o0": "Comutator limbă",
+            "5qzx7hnlx7g0": "Vă rugăm să completați informațiile dvs. personale",
+            "5qzx7hnlxao0": "Veți alătura unei companii autorizate și reglementate de Bahamas Securities Commission (SIA-F245)",
+            "5qzx7hnlxds0": "Numele companiei de software",
+            "5qzx7hnlxo00": "Continuați, sunteți de acord cu noastre",
+            "5qzx7hnlxr40": "Politica de confidențialitate",
+            "5qzx7hnlxts0": "Țara de rezidență",
+            "5qzx7hnlxwg0": "Regiunea administrativă specială Hong Kong",
+            "5qzx7hnlxz00": "Nu sunt rezident fiscal din SUA",
+            "5qzx7hnly280": "Continuați",
+            "5qzx7hnly4w0": "Ai deja un cont?",
+            "5qzx7hnly780": "Autentificare",
+            "5qzx913h37s0": "Și permiteți-ne să vă contactăm în legătură cu aplicația dvs. și produsele noastre."
+        }
+    },
+    "investigate": {
+        "investigate": {
+            "5qzxa22i2fo0": "Motivul deschiderii contului",
+            "5qzxa22i3es0": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxa22i3u80": "Intră pe piețele financiare",
+            "5qzxa22i42w0": "Acoperiți alte piețe",
+            "5qzxa22i49c0": "Investiție pe termen scurt"
+        },
+        "investigate2": {
+            "5qzxdmbnlcw0": "Motivul deschiderii contului",
+            "5qzxdmbnn5w0": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxdmbnnhs0": "mai puțin de 1 an",
+            "5qzxdmbnno40": "Peste 1 an",
+            "5qzxdmbnnto0": "Mai mult de 2 ani",
+            "5qzxdmbno2w0": "Peste 4 ani",
+            "5qzxdmbno980": "Numai deloc"
+        },
+        "investigate3": {
+            "5qzxehscunc0": "Care este cel mai înalt nivel de educație al tău?",
+            "5qzxehscw1g0": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxehscwak0": "Doctor",
+            "5qzxehscwfk0": "Maestru",
+            "5qzxehscwk80": "Licență",
+            "5qzxehscwps0": "Școala secundară"
+        },
+        "investigate4": {
+            "5qzxemt09fg0": "Angajare",
+            "5qzxemt0ak40": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxemt0aw40": "Angajat/independent",
+            "5qzxemt0b0w0": "Pentru",
+            "5qzxemt0b5k0": "șomer"
+        },
+        "investigate5": {
+            "5qzxeptzeuo0": "Industria în care vă aflați",
+            "5qzxeptzge00": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxeptzgsc0": "Servicii financiare",
+            "5qzxeptzgys0": "Suport administrativ, IT și de afaceri",
+            "5qzxeptzh3s0": "Asistență medicală și educație",
+            "5qzxeptzh9g0": "Comerț cu amănuntul și cu ridicata",
+            "5qzxeptzhfc0": "Exploitare, producție și construcții",
+            "5qzxeptzhkw0": "Imobiliare",
+            "5qzxeptzhqg0": "Călătorii și divertisment",
+            "5qzxeptzhyk0": "Transport și logistică",
+            "5qzxeptzi3s0": "Altele"
+        },
+        "investigate6": {
+            "5qzxes9v8640": "Venitul dvs. anual total",
+            "5qzxes9v93w0": "Selectați răspunsul dvs. pentru a trece la următoarea întrebare",
+            "5qzxes9v9fg0": "mai puțin de 20.000 USD sau mai mult"
+        },
+        "investigate7": {
+            "5qzxeu86u3s0": "Cât valorează averea ta actuală",
+            "5qzxeu86vdg0": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxeu86vno0": "mai puțin de 20.000 USD sau mai mult"
+        },
+        "investigate8": {
+            "5qzxewew4cc0": "Care este sursa dvs. de venit și avere",
+            "5qzxewew5k00": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxewew5ug0": "Salariu/Venit din afaceri",
+            "5qzxewew60k0": "Economii/Investiții",
+            "5qzxewew66c0": "Pensie/Chirie",
+            "5qzxewew6co0": "Moștenire",
+            "5qzxewew6mo0": "Debit/împrumut"
+        },
+        "investigate9": {
+            "5qzxezl8nmw0": "V-ați gândit la capacitatea dvs. de asumare de riscuri și capacitatea de a suporta pierderile?",
+            "5qzxezl8omo0": "Selectați răspunsul pentru a trece la următoarea întrebare",
+            "5qzxezl8ow00": "OK",
+            "5qzxezl8p440": "Pot să îmi asum riscuri și să îmi asum pierderi",
+            "5qzxezl8pbs0": "Nu pot să îmi asum riscuri sau pierderi"
+        }
+    },
+    "finish": {
+        "finish": {
+            "5qzxn6d8nm80": "Felicitări pentru promovarea sondajului",
+            "5qzxn6d8os40": "Acum confirmați-vă identitatea, după care puteți tranzacționa",
+            "5qzxn6d8p2g0": "Continuați"
+        }
+    },
+    "userInfo": {
+        "userInfo": {
+            "5qzxo6skag00": "Informații personale",
+            "5qzxo6skbm80": "Comutator de limbă",
+            "5qzxo6skbwg0": "Vă rugăm să introduceți numele dvs.",
+            "5qzxo6skc300": "Informațiile introduse sunt în concordanță cu informațiile de identitate/pașaport",
+            "5qzxo6skc7w0": "Bărbat",
+            "5qzxo6skcdc0": "Femeie",
+            "5qzxo6skchs0": "Nume",
+            "5qzxo6skcmg0": "Vă rugăm să introduceți numele dvs.",
+            "5qzxo6ske1c0": "Nume de mijloc (opțional)",
+            "5qzxo6ske880": "Vă rugăm să introduceți al doilea nume",
+            "5qzxo6skeck0": "Nume",
+            "5qzxo6skeww0": "Vă rugăm să introduceți numele de familie",
+            "5qzxo6skf8c0": "Continuați",
+            "5qzxo6skfe80": "Vă rugăm să completați numele dvs."
+        },
+        "birthday": {
+            "5qzxpqfjtv00": "Informații personale",
+            "5qzxpqfjuwg0": "Comutator limbă",
+            "5qzxpqfjv340": "Data nașterii",
+            "5qzxpqfjv6o0": "Informațiile introduse sunt în concordanță cu informațiile cărții de identitate/pașaportului",
+            "5qzxpqfjv9s0": "Vă rugăm să introduceți data reală a nașterii",
+            "5qzxpqfjvcw0": "Continuați"
+        },
+        "adress": {
+            "5qzxqqf1cg40": "Informații personale",
+            "5qzxqqf1dpo0": "Comutator limbă",
+            "5qzxqqf1e280": "Adresă",
+            "5qzxqqf1e9g0": "Introduceți informații reale",
+            "5qzxqqf1ef80": "Strada",
+            "5qzxqqf1enc0": "Vă rugăm să intrați pe stradă",
+            "5qzxqqf1esw0": "Numărul clădirii",
+            "5qzxqqf1ey80": "Vă rugăm să introduceți numărul clădirii",
+            "5qzxqqf1f400": "Apartament",
+            "5qzxqqf1f900": "Vă rugăm să intrați în apartament",
+            "5qzxqqf1fds0": "Oraș",
+            "5qzxqqf1fj00": "Vă rugăm să intrați în oraș",
+            "5qzxqqf1fo00": "Continuați"
+        },
+        "phone": {
+            "5qzxrcp1ahw0": "Informații personale",
+            "5qzxrcp1bx00": "Comutator limbă",
+            "5qzxrcp1c9k0": "Număr de telefon",
+            "5qzxrcp1cfw0": "Continuați"
+        }
+    },
+    "term": {
+        "term": {
+            "5qzxs1cwpko0": "Termeni și politici",
+            "5qzxs1cws7g0": "Comutator limbă",
+            "5qzxs1cwzh80": "Termeni și politici",
+            "5qzxs1cwzwc0": "Declar că am citit, înțeles și sunt de acord cu următoarele",
+            "5qzxs1cx0440": "Continuați"
+        }
+    },
+    "check": {
+        "check": {
+            "5qzxsk7izhk0": "Vă rugăm să așteptați un moment",
+            "5qzxsk7j0yc0": "Vă verificăm informațiile"
+        }
+    },
+    "selfie": {
+        "selfie": {
+            "5qzxszbnauo0": "Fă un videoclip selfie",
+            "5qzxszbnchc0": "Din motive de securitate, trebuie să captăm în timp real pentru a finaliza procesul de verificare",
+            "5qzxszbncx80": "ID",
+            "5qzxszbnd7s0": "Fă o fotografie a actului tău de identitate",
+            "5qzxszbndhs0": "Selfie",
+            "5qzxszbndpc0": "Durează doar un minut",
+            "5qzxszbndw00": "Faceți clic pentru a continua, ne acceptați",
+            "5qzxszbne0w0": "Termeni și condiții",
+            "5qzxszbnfkc0": "Și sunteți de acord să procesăm informațiile dvs. personale, vedeți pentru detalii",
+            "5qzxszbnfw00": "Consimțământul pentru prelucrarea informațiilor cu caracter personal",
+            "5qzxszbng1o0": "Continuați",
+            "5qzxszbng7k0": "de",
+            "5qzxszbngd80": "Oferiți asistență"
+        }
+    },
+    "select": {
+        "select": {
+            "5qzxtuylf2g0": "Selectați țara/regiunea care a emis documentul dvs. de identitate",
+            "5qzxtuylg640": "Hong Kong",
+            "5qzxtuylgeo0": "Alegeți tipul de fișier",
+            "5qzxtuylgk80": "Faceți clic pe cameră pentru a face o fotografie și a încărca o fotografie",
+            "5qzxtuylgow0": "Dacă nu puteți găsi tipul de document sau țara emiterii, vă rugăm să contactați",
+            "5qzxtuylguc0": "Asistență pentru clienți",
+            "5qzxtuylh3g0": "de",
+            "5qzxtuylh840": "Oferiți asistență",
+            "5qzxtuylhdg0": "Vă rugăm să introduceți un cuvânt cheie de căutare",
+            "5qzxtuylhi00": "Ne puteți contacta în oricare dintre următoarele moduri:",
+            "5qzxtuylhmc0": "Trimite-ne un e-mail",
+            "5qzxtuylhqo0": "Suntem bucuroși să vă ajutăm.",
+            "5qzxtuylhv00": "Trimiteți-ne întrebările dvs.",
+            "5qzxtuyligg0": "Alimentat de Sumsub",
+            "5qzxtuylj5g0": "Pașaport",
+            "5qzxtuyljk00": "Permis de conducere",
+            "5qzxtuyljps0": "Carte de identitate",
+            "5qzxtuyljug0": "Carte de ședere/permis de ședere"
+        }
+    },
+    "Upload": {
+        "Upload": {
+            "5qzxumbbths0": "Pașaport",
+            "5qzxumbbuzo0": "Asigurați-vă că toate informațiile din fișier sunt clar vizibile și ușor de citit",
+            "5qzxumbbvb40": "Reînregistrați",
+            "5qzxumbbvgs0": "Fișier care poate fi citit",
+            "5qzxumbbvlo0": "de",
+            "5qzxumbbvqo0": "Oferiți asistență"
+        },
+        "btnDisabled": {
+            "5qzxv368nak0": "Încărcați",
+            "5qzxv368oz80": "Simulați o fereastră pop-up care afișează un mesaj de eroare",
+            "5qzxv368pa00": "Reînregistrați",
+            "5qzxv368pf00": "Fișier care poate fi citit",
+            "5qzxv368pl40": "de",
+            "5qzxv368ppk0": "Oferiți asistență",
+            "5qzxv368pu80": "Prompt de eroare",
+            "5qzxv368pyo0": "Informațiile din fișierul dvs. nu au putut fi citite cu acuratețe. Asigurați-vă că datele nu sunt ascunse, clare și complet vizibile. Vă rugăm să vă asigurați că ați selectat tipul și țara corecte de fișier.",
+            "5qzxv368q400": "Încercați din nou"
+        }
+    },
+    "cash-account": {
+        "index": {
+            "5qzy2gp8ieo0": "Comutare rapidă la modul de emulare",
+            "5qzy2gp8jp40": "Deconectare",
+            "5qzy2gp8k140": "Gestionarea contului",
+            "5qzy2gp8ka40": "Setări generale",
+            "5qzy2gp8kgg0": "Setări mesaje",
+            "5qzy2gp8kng0": "Centrul de ajutor"
+        }
+    },
+    "account-manage": {
+        "account-manage": {
+            "5qzy3octe4w0": "Contul meu",
+            "5qzy3othhg0": "Factura",
+            "5qzy3octi4o0": "Schimbați parola",
+            "5qzy3octibg0": "Activitatea dispozitivului",
+            "5qzy3octigw0": "Contul nu este activat"
+        }
+    },
+    "my-account": {
+        "my-account": {
+            "5qzy4f5vw1c0": "Activ",
+            "5qzy4f5vxbo0": "Sigur ștergeți contul xx?",
+            "5qzy4f5vxm00": "Anulați",
+            "5qzy4f5vxr00": "Șterge",
+            "5qzy4f5vxvo0": "Redenumiți",
+            "5qzy4f5vy180": "Numele contului",
+            "5qzy4f5vy5w0": "Vă rugăm să completați numele contului",
+            "5qzy4f5vycs0": "Confirmați modificarea",
+            "5qzy4f5vykc0": "Informații de conectare a numelui contului",
+            "5qzy4f5vyos0": "Levier Forex",
+            "5qzy4f5vyso0": "Pârghie",
+            "5qzy4f5vyz80": "Finalizat",
+            "5qzy4f5vz380": "Adăugați un cont de numerar",
+            "5qzy4f5vz8k0": "Adăugați un cont demo",
+            "5qzy4f5vzd40": "Cont de numerar",
+            "5qzy4f5vzgo0": "Cont demonstrativ",
+            "5qzy4f5vzl80": "Autentificare",
+            "5qzy4f5vzps0": "Server",
+            "5qzy4f5vzu40": "Server 1",
+            "5qzy4f5vzzk0": "Server 2",
+            "5qzy4f5w0600": "Server 3",
+            "5qzy4f5w09s0": "Server 4",
+            "5qzy4f5w0dw0": "Reîncărcare",
+            "5qzy4f5w0i00": "Transfer",
+            "5qzy4f5w0lk0": "Retragere",
+            "5qzy4f5w0p40": "Opțiuni de tranzacționare",
+            "5qzy4f5w0ss0": "Ștergeți contul",
+            "5qzy4f5w0zg0": "Informații de conectare",
+            "5qzy4f5w13k0": "Regulator",
+            "5qzy4f5w18c0": "Disponibil",
+            "5qzy4f5w1bo0": "Venit",
+            "5qzy4f5w1eg0": "Profit și pierdere",
+            "5qzy4f5w1hk0": "Marja"
+        }
+    },
+    "top-up": {
+        "top-up": {
+            "5qzy6q26rn40": "Continuați",
+            "5qzy6q26t3k0": "Metoda de plată folosită recent",
+            "5qzy6q26tg80": "Adăugați o nouă metodă de plată",
+            "5qzy6q26tms0": "Card bancar",
+            "5qzy6q26tsk0": "Transfer bancar"
+        }
+    },
+    "band-card": {
+        "band-card": {
+            "5qzy7afbjo00": "Cantitate",
+            "5qzy7afbl400": "Vă rugăm să completați cantitatea",
+            "5qzy7afbleg0": "Continuați",
+            "5qzy7afbln40": "Fondurile dvs. vor fi păstrate în siguranță și protejate de Politica noastră de compensare a investitorilor."
+        }
+    },
+    "credit-card-information": {
+        "credit-card-information": {
+            "5qzy89dw2dk0": "Cantitate",
+            "5qzy89dw3ic0": "Numărul cardului bancar",
+            "5qzy89dw3sc0": "Vă rugăm să introduceți numărul cardului bancar",
+            "5qzy89dw3y40": "Data de expirare",
+            "5qzy89dw4340": "Vă rugăm să introduceți perioada de valabilitate",
+            "5qzy89dw4800": "Numele titularului cardului",
+            "5qzy89dw4cc0": "Vă rugăm să introduceți numele deținătorului cardului",
+            "5qzy89dw4gg0": "Deținătorul cardului",
+            "5qzy89dw4lc0": "Vă rugăm să permiteți accesul la cameră",
+            "5qzy89dw4q80": "Acest lucru permite",
+            "5qzy89dw4ug0": "Nume software",
+            "5qzy89dw52k0": "Încărcați fotografii accesând camera dvs.. Căutați comutatorul etichetat „Cameră”. ",
+            "5qzy89dw57c0": "Anulați",
+            "5qzy89dw5cc0": "Accesați setări",
+            "5qzy89dw5h40": "Data se află sub numărul cardului de pe partea din față a cardului bancar",
+            "5qzy89dw5lk0": "OK",
+            "5qzy89dw5qg0": "Codul din trei cifre al cardului de credit poate fi găsit pe spatele cardului bancar",
+            "5qzy89dw5us0": "Contul extern și depozitul dvs.",
+            "5qzy89dw5yw0": "Fondurile din cont ar trebui să aparțină numelui dvs. Orice plată terță parte nu va fi acceptată. Înainte de a depune fonduri în dvs.",
+            "5qzy89dw63g0": "Când creați un cont, nu puteți utiliza carduri bancare și conturi bancare de la terți.",
+            "5qzy89dw69c0": "Închidere",
+            "5qzy89dw6f00": "Vă rugăm să introduceți un număr valid de card/acest tip de card nu este acceptat în prezent",
+            "5qzy89dw6jc0": "Este necesară data de expirare",
+            "5qzy89dw6mo0": "Este necesar un cod de securitate",
+            "5qzy89dw6q80": "Numele titularului cardului este necesar",
+            "5qzy89dw6ts0": "Verificarea trecută",
+            "5qzy89dw6xc0": "Autentificarea eșuată",
+            "5qzy9t5nqr80": "Sunt sigur că sunt",
+            "5qzyabt4c5s0": "Declarați și garantați că"
+        }
+    },
+    "bank-transfer": {
+        "bank-transfer": {
+            "5qzyb7o2hv40": "Memento cald",
+            "5qzyb7o2iy00": "Comision; durează până la cinci zile lucrătoare; acceptă doar fonduri din conturile bancare personale; din motive de reglementare, nu putem accepta depozite din SUA.",
+            "5qzyb7o2j600": "Partajați detaliile de plată",
+            "5qzyb7o2jb80": "Beneficiar",
+            "5qzyb7o2jfw0": "Observații privind remiterea",
+            "5qzyb7o2jkg0": "Banca",
+            "5qzyb7o2jrk0": "Adresa băncii",
+            "5qzyb7o2jw80": "Moneda"
+        }
+    },
+    "trading-options": {
+        "trading-options": {
+            "5qzyd1cj6lw0": "Tranzacție cu un singur clic",
+            "5qzyd1cj7ks0": "Deschideți o poziție cu un singur clic",
+            "5qzyd1cj7q00": "Vă rugăm să rețineți",
+            "5qzyd1cj7tc0": "Înțeleg că, după ce funcția de tranzacționare cu un singur clic este activată, puteți deschide/închide o poziție cu un singur clic și nu puteți anula tranzacția",
+            "5qzyd1cj7w00": "Anulați",
+            "5qzyd1cj7yw0": "Activați",
+            "5qzyd1cj81o0": "Raportul de levier",
+            "5qzyd1cj8480": "Mod normal",
+            "5qzyd1cj8780": "Operația de tranzacție inversă va închide mai întâi tranzacția existentă",
+            "5qzyd1cj89o0": "Modul Hedge",
+            "5qzyd1cj8dg0": "O piață poate fi tranzacționată în ambele direcții"
+        }
+    },
+    "transfer-money": {
+        "transfer-money": {
+            "5qzyf33vh2g0": "Vă rugăm să completați suma de transfer",
+            "5qzyf33vi1o0": "Fondurile dvs. vor fi păstrate în siguranță și protejate de Politica noastră de compensare a investitorilor.",
+            "5qzyf33vi6o0": "Transfer",
+            "5qzyf33vi9o0": "Contul de numerar A",
+            "5qzyf33vics0": "Contul de numerar B"
+        }
+    },
+    "transfer-initiated": {
+        "transfer-initiated": {
+            "5qzyfrqjc8g0": "Transferul a fost inițiat",
+            "5qzyfrqjdmw0": "De la",
+            "5qzyfrqjdx00": "Cont de numerar A (numit de utilizator)",
+            "5qzyfrqje380": "Transfer la",
+            "5qzyfrqje7s0": "Contul de numerar B (numit de utilizator)",
+            "5qzyfrqjed80": "OK"
+        }
+    },
+    "withdraw-cash": {
+        "withdraw-cash": {
+            "5qzygfbgm400": "Disponibil",
+            "5qzygfbgnh00": "Vă rugăm să completați fondurile disponibile",
+            "5qzygfbgnw80": "Cantitate",
+            "5qzygfbgo4o0": "Vă rugăm să completați suma de retragere",
+            "5qzygfbgoa80": "Suma minimă nu poate fi mai mică de 50, iar cea maximă nu poate depăși 10.000",
+            "5qzygfbgofk0": "OK"
+        }
+    },
+    "cash-success": {
+        "cash-success": {
+            "5qzygwefrkw0": "Retragerea a avut succes, vă rugăm să accesați contul de retragere corespunzător pentru a vă informa după sosirea a XX ore",
+            "5qzygweftrg0": "OK"
+        }
+    },
+    "account-verification": {
+        "account-verification": {
+            "5qzyhfsr86w0": "Conținut personalizat",
+            "5qzyhfsrjak0": "Ieșit",
+            "5qzyhfsrkz40": "În tranzit",
+            "5qzyhfsrlck0": "Contul meu",
+            "5qzyhfsrlis0": "Verificarea cutiei poștale cu succes",
+            "5qzyhfsrlpk0": "ID de încărcare",
+            "5qzyhfsrlus0": "Începeți tranzacționarea"
+        }
+    },
+    "leverage": {
+        "leverage": {
+            "5qzyi9ggems0": "OK",
+            "5qzyi9ggg4w0": "Moneda",
+            "5qzyi9ggggc0": "Index",
+            "5qzyi9ggls0": "Marfă",
+            "5qzyi9gggqg0": "Stocuri",
+            "5qzyi9gggvo0": "Criptomonedă",
+            "5qzyi9gglgk0": "Aplicabil perechilor valutare majore: constând din oricare două dintre următoarele: USD, EUR, GBP, CAD, JPY, CHF",
+            "5qzyi9gglns0": "Pentru perechile valutare minore",
+            "5qzyi9ggmz40": "Aplicabil pentru perechile valutare majore: UK100,FR40,DE30,US500,US100,J225,EU50,US30,AU200",
+            "5qzyi9ggn7g0": "Se aplică pentru aur",
+            "5qzyi9ggnck0": "Aplicabil tuturor mărfurilor, cu excepția aurului"
+        }
+    },
+    "regulator": {
+        "regulator": {
+            "5qzyj7gx6k40": "Fonduri disponibile",
+            "5qzyj7gx8bg0": "Vă rugăm să completați fondurile disponibile",
+            "5qzyj7gx8s80": "OK"
+        }
+    },
+    "select-account-currency": {
+        "select-account-currency": {
+            "5qzyjogft4k0": "Creează",
+            "5qzyjogfvzc0": "Adăugați cont",
+            "5qzyjogfwhc0": "Numele contului",
+            "5qzyjogfwq40": "Vă rugăm să completați numele contului"
+        }
+    },
+    "add-simulation-user": {
+        "add-simulation-user": {
+            "5qzykmjxw5k0": "Continuați",
+            "5qzykmjxxa00": "Creați un cont pentru a tranzacționa pe MT4"
+        }
+    },
+    "add-cash-user": {
+        "add-cash-user": {
+            "5qzyl5fr7gk0": "Continuați",
+            "5qzyl5fr8j40": "Creați un cont pentru a tranzacționa pe MT4"
+        }
+    },
+    "bill": {
+        "bill": {
+            "5qzylk6fv0s0": "Detalii fond",
+            "5qzylk6fwcc0": "Istoricul tranzacțiilor",
+            "5qzylk6fwko0": "Istoricul comenzilor"
+        }
+    },
+    "details-funds": {
+        "details-funds": {
+            "5qzym36ug400": "Clasificarea fondului",
+            "5qzym36uhqo0": "Finalizat",
+            "5qzym36ui200": "Clasificare în timp",
+            "5qzym36ui8o0": "Ultima dată",
+            "5qzym36uieg0": "Glisați la stânga și la dreapta pentru a vedea mai multe",
+            "5qzym36uil00": "Personalizat",
+            "5qzym36uiqg0": "Raportul va fi trimis la căsuța dvs. poștală",
+            "5qzym36uivk0": "Anulați",
+            "5qzym36uj140": "Trimite",
+            "5qzym36uj680": "Toate",
+            "5qzym36ujb80": "Depozit",
+            "5qzym36ujh00": "Retragere",
+            "5qzym36ujp80": "Transfer",
+            "5qzym36ujuk0": "Retragere rambursată",
+            "5qzym36ujzs0": "Taxa de tranzacție overnight finalizată",
+            "5qzym36uk4w0": "Corectare",
+            "5qzym36ukb00": "Bonus",
+            "5qzym36ukgw0": "Rabat",
+            "5qzym36ukmg0": "Comision",
+            "5qzym36ukro0": "Protecție împotriva alunecării comerciale",
+            "5qzym36ul2g0": "Finanțare inițială",
+            "5qzym36ulao0": "Modificați totalul",
+            "5qzym36uljo0": "În așteptarea examinării",
+            "5qzym36uloo0": "Sold curent",
+            "5qzym36ulso0": "Astăzi",
+            "5qzym36ulww0": "Taxa peste noapte",
+            "5qzym36um0w0": "Procesare finalizată",
+            "5qzym36um4s0": "Ieri",
+            "5r048henc4w0": "zi",
+            "5r04cekgc980": "Ora",
+            "5r04cekgdt40": "Săptămâna",
+            "5r04cekge7c0": "lună"
+        }
+    },
+    "historical-order": {
+        "historical-order": {
+            "5qzymqtku0o0": "Clasificarea fondului",
+            "5qzymqtkw6o0": "Finalizat",
+            "5qzymqtkwmc0": "Categoria de timp",
+            "5qzymqtkwus0": "Ultima dată",
+            "5qzymqtkx180": "Glisați la stânga și la dreapta pentru a vedea mai multe",
+            "5qzymqtkx8w0": "Personalizat",
+            "5qzymqtkxg00": "Raportul va fi trimis pe adresa ta de e-mail",
+            "5qzymqtkxmk0": "Anulați",
+            "5qzymqtkxt80": "Trimite",
+            "5qzymqtky240": "Toate",
+            "5qzymqtkyd00": "Creat",
+            "5qzymqtkyjk0": "Executat",
+            "5qzymqtkypc0": "Respins",
+            "5qzymqtkywc0": "Modificat cu succes",
+            "5qzymqtkz1s0": "Anulat",
+            "5qzymqtkz6o0": "Eșec",
+            "5qzymqtkzec0": "Finanțare inițială",
+            "5qzymqtkzk40": "Total modificat",
+            "5qzymqtkzow0": "În așteptarea examinării",
+            "5qzymqtkzuk0": "Sold curent",
+            "5qzymqtl04w0": "Astăzi",
+            "5qzymqtl0ag0": "Comanda a fost executată cu succes",
+            "5qzymqtl0fo0": "Nume stoc XXXXXXX",
+            "5qzymqtl0j40": "Comandă limită",
+            "5qzymqtl0ms0": "Comanda creată cu succes",
+            "5r0sqtef4b00": "Ora",
+            "5r0sqtef62g0": "Săptămâna",
+            "5r0sqtef6bw0": "Luna",
+            "5r0sqtef6h80": "zile"
+        }
+    },
+    "transaction-history": {
+        "transaction-history": {
+            "5qzyn81k7ww0": "Clasificarea fondului",
+            "5qzyn81k9jw0": "Finalizat",
+            "5qzyn81k9w40": "Categoria de timp",
+            "5qzyn81ka280": "Ultima dată",
+            "5qzyn81ka880": "Glisați la stânga și la dreapta pentru a vedea mai multe",
+            "5qzyn81kags0": "Personalizat",
+            "5qzyn81kan00": "Raportul va fi trimis pe adresa ta de e-mail",
+            "5qzyn81kask0": "Anulați",
+            "5qzyn81kayg0": "Trimite",
+            "5qzyn81kb6c0": "Toate",
+            "5qzyn81kbbo0": "Poziția a fost deschisă",
+            "5qzyn81kbgw0": "Rezolvat",
+            "5qzyn81kbl40": "Modificat cu succes",
+            "5qzyn81kbpo0": "Taxa peste noapte",
+            "5qzyn81kbu80": "Ajustarea dividendelor",
+            "5qzyn81kby80": "Fonduri inițiale",
+            "5qzyn81kc4o0": "Total modificat",
+            "5qzyn81kc9o0": "În așteptarea examinării",
+            "5qzyn81kce00": "Sold curent",
+            "5qzyn81kcj40": "Astăzi",
+            "5qzyn81kcqc0": "Nume stoc XXXXXXX",
+            "5qzyn81kcu80": "Ieri",
+            "5qzyn81kcys0": "Comanda tranzacției a fost plasată cu succes",
+            "5qzyn81kd2c0": "Tranzacție finalizată",
+            "5r0skcc64ts0": "zi",
+            "5r0sn0b8n3c0": "ora",
+            "5r0sohtdtb00": "Săptămâna",
+            "5r0sohtdv9w0": "lună"
+        }
+    },
+    "overnight-charge": {
+        "overnight-charge": {
+            "5qzynre76a00": "Taxa peste noapte",
+            "5qzynre77fo0": "Comanda a fost executată cu succes",
+            "5qzynre77ow0": "Comanda creată cu succes",
+            "5qzynre77uo0": "Raportul va fi trimis pe adresa ta de e-mail",
+            "5qzynre78040": "Anulați",
+            "5qzynre786c0": "Trimite",
+            "5qzynre78b40": "ID comandă",
+            "5qzynre78g40": "declanșator",
+            "5qzynre78l00": "Utilizator",
+            "5qzynre78ps0": "Moneda",
+            "5qzynre78uo0": "Poziția a fost deschisă",
+            "5qzynre792w0": "Creat",
+            "5qzynre7cac0": "Prețul comenzii"
+        }
+    },
+    "equipment-activities": {
+        "equipment-activities": {
+            "5qzypnp9yaw0": "Sesiune activă",
+            "5qzypnp9zgk0": "Regiunea administrativă specială Hong Kong",
+            "5qzypnp9zro0": "Activ în prezent",
+            "5qzypnp9zyo0": "Ultima sesiune",
+            "5qzypnpa0440": "Ieri-Singapore",
+            "5qzypnpa09k0": "Emiratele Arabe Unite",
+            "5qzypnpa0dw0": "Coreea de Sud"
+        }
+    },
+    "equipment-activities-children": {
+        "equipment-activities-children": {
+            "5qzyri0lai80": "Locația este o aproximare bazată pe adresa IP",
+            "5qzyri0lbt40": "Autentificare reușită",
+            "5qzyri0lc440": "Nu s-a putut obține adresa, ceea ce va face ca unele funcții să fie indisponibile",
+            "5r0y79jbwkg0": "acum cu ore"
+        }
+    },
+    "update-password": {
+        "update-password": {
+            "5qzystpe0s80": "Parola curentă",
+            "5qzystpe27o0": "Vă rugăm să introduceți parola curentă",
+            "5qzystpe2i80": "Parolă nouă",
+            "5qzystpe2r00": "Vă rugăm să introduceți o nouă parolă",
+            "5qzystpe2x40": "Confirmați parola",
+            "5qzystpe32o0": "Vă rugăm să introduceți din nou noua parolă",
+            "5qzystpe37g0": "Salvați",
+            "5qzystpe3bs0": "Toate sunt necesare",
+            "5qzystpe3ik0": "Noua parolă este inconsecventă"
+        }
+    },
+    "general-setting": {
+        "general-setting": {
+            "5qzz5btvxts0": "Vă rugăm să rețineți",
+            "5qzz5btvyvg0": "Activați?",
+            "5qzz5btvz080": "Anulați",
+            "5qzz5btvz340": "Activați",
+            "5qzz5btvz600": "Setări de limbă",
+            "5qzz5btvzao0": "Setări fus orar",
+            "5qzz5btvze40": "Mod întunecat",
+            "5qzz5btvzhg0": "Tipul listei de urmărire"
+        }
+    },
+    "watch-list": {
+        "watch-list": {
+            "5qzz5rytb4k0": "Previzualizare efect",
+            "5qzz5rytcfk0": "Vizualizare normală",
+            "5qzz5rytco00": "Mod compact",
+            "5qzz5rytcto0": "Mod card",
+            "5qzz5rytd200": "Modul de tranzacționare"
+        }
+    },
+    "time-setting": {
+        "time-setting": {
+            "5qzz65haghg0": "Vă rugăm să rețineți",
+            "5qzz65hahp80": "Activați?",
+            "5qzz65hahx40": "Anulați",
+            "5qzz65hai2g0": "Activați",
+            "5qzz65hai7g0": "Automat"
+        }
+    },
+    "time-select": {
+        "time-select": {
+            "5qzz6gcsask0": "Vă rugăm să introduceți un cuvânt cheie de căutare",
+            "5qzz6gcsc8c0": "Salvați"
+        }
+    },
+    "help-center": {
+        "help-center": {
+            "5qzz72f8weo0": "Aflați cum să tranzacționați",
+            "5qzz72f8y100": "Serviciul clienți online",
+            "5qzz72f8yh00": "Contactați-ne",
+            "5qzz72f8yoo0": "Lăsați feedback",
+            "5qzz72f8yuc0": "Întrebări frecvente"
+        }
+    },
+    "contact-us": {
+        "contact-us": {
+            "5qzz7f8z5200": "REGATUL UNIT."
+        }
+    },
+    "learn-how-to-trade": {
+        "learn-how-to-trade": {
+            "5qzz7rvgs6s0": "Elementele esențiale pentru tranzacționare",
+            "5qzz7rvgv1g0": "Politica comercială pentru începători",
+            "5qzz7rvgvpo0": "Psihologie comercială"
+        }
+    },
+    "leave-feedback": {
+        "leave-feedback": {
+            "5qzz8bsvc0k0": "Feedback-ul dvs. este un impuls puternic pentru îmbunătățirea noastră continuă",
+            "5qzz8bsvdbc0": "Feedback",
+            "5qzz8bsvdms0": "Trimiteți"
+        }
+    },
+    "online-customer": {
+        "online-customer": {
+            "5qzz8np4icg0": "Editați SMS-urile"
+        }
+    },
+    "message-setting": {
+        "message-setting": {
+            "5qzz90njz780": "Notificări de abonare",
+            "5qzz90nk0m00": "Inbox",
+            "5qzz90nk4n00": "Solicitarea mea",
+            "5qzz90nk4zw0": "Toate știrile"
+        }
+    },
+    "all-news": {
+        "all-news": {
+            "5qzz9du8qls0": "Toate",
+            "5qzz9du8s0w0": "Stocuri",
+            "5qzz9du8sb40": "Criptomonedă",
+            "5qzz9du8sio0": "Forex",
+            "5qzz9du8snk0": "Piața petrolului brut",
+            "5qzz9du8ssg0": "Moneda virtuală"
+        }
+    },
+    "my-request": {
+        "my-request": {
+            "5qzz9v0mahk0": "Încă nu există date",
+            "5qzz9v0mbfg0": "Dacă avem nevoie de mai multe informații, vă vom contacta"
+        }
+    },
+    "subscription-notification": {
+        "subscription-notification": {
+            "5qzza6qlfsc0": "Dacă doriți să nu mai primiți toate e-mailurile de la noi, vă rugăm să faceți clic pe butonul „Dezabonați-vă pe toate” de mai jos. Poate dura ceva timp pentru ca dezabonarea să intre în vigoare, vă mulțumim pentru răbdare.",
+            "5qzza6qlh2g0": "Actualizare critică",
+            "5qzza6qlh8w0": "Vă vom trimite întotdeauna notificări și e-mailuri despre transferurile dvs. de fonduri și actualizări critice ale contului",
+            "5qzza6qlhdc0": "OK",
+            "5qzza6qlhho0": "Rezultatul tranzacției",
+            "5qzza6qlhmg0": "Partajează rezultatele tranzacției închise",
+            "5qzza6qlht40": "Partajați rezultatele tranzacției după încheierea tranzacției",
+            "5qzza6qlhxg0": "Procesare finalizată",
+            "5qzza6qli1o0": "Notificare push",
+            "5qzza6qli8g0": "Cutie poștală",
+            "5qzza6qlic80": "Strategii de instruire și tranzacționare",
+            "5qzza6qligg0": "Deveniți un comerciant mai bun și creați-vă strategia de tranzacționare cu materialele noastre didactice, ghiduri și videoclipuri",
+            "5qzza6qlik40": "Anunț webinar",
+            "5qzza6qlio40": "Urmăriți seminariile noastre web pentru informații unice de la experți din industrie și comercianți experimentați",
+            "5qzza6qlis00": "Raport",
+            "5qzza6qlivk0": "Memento de apel în marjă",
+            "5qzza6qlizk0": "Când o tranzacție duce la fonduri insuficiente în contul dvs., veți primi un apel în marjă",
+            "5qzza6qlj3g0": "Memento de închidere",
+            "5qzza6qlj740": "Când toate tranzacțiile dvs. sunt închise pentru a preveni alte pierderi, va fi emisă o închidere a marjei",
+            "5qzza6qljb80": "Transfer de fonduri",
+            "5qzza6qljik0": "Transferurile de fonduri vă vor trimite notificări instantanee despre depuneri și retrageri reușite",
+            "5qzza6qljm80": "Notificare",
+            "5qzza6qljq00": "Comunicare",
+            "5qzza6qljt40": "Telefon",
+            "5qzza6qljwk0": "Abonați-vă la toate",
+            "5qzza6qljzw0": "Dezabonați-vă de la toate"
+        }
+    },
+    "inbox": {
+        "inbox": {
+            "5qzzaud71dw0": "Încă nu există știri",
+            "5qzzaud73hg0": "Analiză",
+            "5qzzaud73ug0": "Notificare",
+            "5qzzaud746k0": "Astăzi",
+            "5qzzaud74fw0": "Raport de performanță săptămânal",
+            "5qzzaud74rk0": "Raport lunar de performanță",
+            "5qzzaud752s0": "Profit atins",
+            "5qzzaud758w0": "Cont de numerar",
+            "5qzzaud75e80": "Stop pierderea atins",
+            "5qzzaud75ko0": "Suma marjei dvs. este scăzută. Vă rugăm să vă depuneți contul, să anulați unele comenzi sau să închideți unele poziții",
+            "5qzzaud75ug0": "Depunere",
+            "5r051jhx1d80": "Depunerea dvs. în numele software-ului a fost procesată cu succes",
+            "5r052lwjw3s0": "Cumpărați",
+            "5r052lwjxg00": "Vândut",
+            "5r05509do5s0": "Cont USD"
+        }
+    },
+    "completed-transaction": {
+        "completed-transaction": {
+            "5qzzbe5rimw0": "Rezultat",
+            "5qzzbe5rjow0": "Raportul va fi trimis pe adresa ta de e-mail",
+            "5qzzbe5rk0g0": "Anulați",
+            "5qzzbe5rk780": "Trimite",
+            "5qzzbe5rkdo0": "ID comandă",
+            "5qzzbe5rkjs0": "Declanșator",
+            "5qzzbe5rkow0": "Moneda",
+            "5qzzbe5rkv00": "Taxă peste noapte",
+            "5qzzbe5rl0o0": "Modificat cu succes",
+            "5qzzbe5rl5w0": "Poziție deschisă",
+            "5qzzbe5rlak0": "Rezolvat"
+        }
+    },
+    "deposit": {
+        "deposit": {
+            "5qzzbrfh5fk0": "Procesare finalizată",
+            "5qzzbrfh6ik0": "Moneda",
+            "5qzzbrfh6sk0": "Cantitate",
+            "5qzzbrfh7l00": "Detalii de plată",
+            "5qzzbrfh7uw0": "ID comandă",
+            "5qzzbrfh99g0": "Ora comandă"
+        }
+    },
+    "performance-report": {
+        "performance-report": {
+            "5qzzc4k554k0": "Bună Comerciant",
+            "5qzzc4k5cog0": "Suntem aici pentru a vă ajuta",
+            "5qzzc4k5d9s0": "Dacă aveți întrebări, vă rugăm să ne contactați prin intermediul serviciului nostru de chat live sau",
+            "5qzzc4k5djo0": "Adresa de e-mail",
+            "5qzzc4k5dq40": "Contactați-ne. Suntem aici 24 de ore pe zi.",
+            "5qzzc4k5dwc0": "CFD-urile sunt instrumente complexe care au un risc mare de a pierde bani rapid din cauza efectului de levier.",
+            "5qzzc4k5e140": "Urmtoarele sunt principalele date privind tranzacțiile din contul dvs. USD din 15 mai 2023 până în 21 mai 2023",
+            "5qzzc4k5e680": "Schimb",
+            "5qzzc4k5ebk0": "Volum total",
+            "5qzzc4k5eg80": "Total de tranzacții",
+            "5qzzc4k5ekw0": "Comerț scurt/lung",
+            "5qzzc4k5ets0": "Comerț profitabil",
+            "5qzzc4k5ez40": "Se pierde comerțul",
+            "5qzzc4k5f640": "Venit pe tranzacție",
+            "5qzzc4k5fbc0": "Profit mediu",
+            "5qzzc4k5fjo0": "Pierdere medie",
+            "5qzzc4k5fp80": "Timp de retinere",
+            "5qzzc4k5fuk0": "Timpul mediu de profit",
+            "5qzzc4k5fz80": "Timpul mediu pierdut",
+            "5r0yq9tynhc0": "Cont",
+            "5r0yq9typv80": "Către"
+        }
+    },
+    "components": {
+        "closing-transaction": {
+            "5qzzdcn125o0": "Tranzacția de închidere a zilei",
+            "5qzzdcn13ls0": "Vând",
+            "5qzzdcn13tc0": "Cumpărați",
+            "5qzzdcn13y80": "Luni",
+            "5qzzdcn142g0": "Marți",
+            "5qzzdcn147s0": "Miercuri",
+            "5qzzdcn14cc0": "Joi",
+            "5qzzdcn14gw0": "Vineri",
+            "5qzzdcn14ls0": "Sâmbătă",
+            "5qzzdcn14q00": "Duminică"
+        },
+        "highest-profit": {
+            "5qzzdr15y3s0": "Cea mai profitabilă poziție",
+            "5qzzdr15zp80": "Nume",
+            "5qzzdr1601k0": "Cantitate",
+            "5qzzdr1607c0": "Deschide/Închide",
+            "5qzzdr160e00": "Rata dobânzii",
+            "5qzzdr160js0": "Cupru"
+        },
+        "loss-ranking": {
+            "5qzze2jwz0s0": "Rang de pierdere",
+            "5qzze2jx3740": "Nume",
+            "5qzze2jx3rg0": "Cantitate",
+            "5qzze2jx3y00": "Prețul de deschidere/prețul de închidere",
+            "5qzze2jx4340": "Rata dobânzii"
+        },
+        "low-margin-market": {
+            "5qzzef7zaig0": "Piața profitabilă minimă",
+            "5qzzef7zbrw0": "Vând",
+            "5qzzef7zc1w0": "Cumpărați",
+            "5qzzef7zc8w0": "Sentimentul contului",
+            "5qzzef7zcfc0": "Sentimentul pieței",
+            "5qzzef7zcm40": "Nu ați terminat încă acest grafic"
+        },
+        "maximum-asset": {
+            "5qzzf3tbrm80": "Cele mai tranzacționate active ale noastre din 15 mai 2023 până în 21 mai 2023",
+            "5qzzf3tbstw0": "Vineri",
+            "5qzzf3tbt800": "Sâmbătă",
+            "5qzzf3tbtg40": "Active"
+        },
+        "profit-and-loss": {
+            "5qzzfir8iws0": "Profit/pierdere realizat zilnic",
+            "5qzzfir8khk0": "Luni",
+            "5qzzfir8kwg0": "Marți",
+            "5qzzfir8l5k0": "Miercuri",
+            "5qzzfir8lec0": "Joi",
+            "5qzzfir8lks0": "Vineri",
+            "5qzzfir8lqg0": "Sâmbătă",
+            "5qzzfir8lw00": "Duminică",
+            "5qzzfir8m1o0": "Total înregistrat"
+        },
+        "profitable-market": {
+            "5qzzfstq5d00": "Cea mai profitabilă piață",
+            "5qzzfstq6ic0": "Vând",
+            "5qzzfstq6p80": "Cumpărați",
+            "5qzzfstq6tk0": "Sentimentul contului",
+            "5qzzfstq6xs0": "Sentimentul pieței",
+            "5qzzfstq72g0": "Nu am terminat încă acest grafic",
+            "5qzzfstq76o0": "Scaun",
+            "5qzzfstq7ak0": "Wanyanmi"
+        }
+    },
+    "language-setting": {
+        "language-setting": {
+            "5r0s389cbjk0": "Salvați",
+            "5r0s389cea00": "Vă rugăm să rețineți",
+            "5r0s389ceqg0": "Sunteți sigur că doriți să schimbați limba la XXXX?",
+            "5r0s389cf080": "Anulați",
+            "5r0s389cf9c0": "OK",
+            "5r0s389cfiw0": "Chineză tradițională",
+            "5r0s93glpkg0": "Chineză simplificată"
+        }
+    }
+}

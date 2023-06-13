@@ -1,0 +1,1161 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/RealLogin/RealLogin",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+		}, {},
+		{
+			"path": "pages/home/page1",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/home/page2",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "注册方式",
+				"enablePullDownRefresh": false
+			}
+
+		},
+
+		{
+			"path": "pages/price/price",
+			"style": {
+				"navigationBarTitleText": "行情",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/transaction/transaction",
+			"style": {
+				"navigationBarTitleText": "交易",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/transaction/trendchart",
+			"style": {
+				"navigationBarTitleText": "交易走势图",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/property/property",
+			"style": {
+				"navigationBarTitleText": "资产",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "邮箱注册页面",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/cash-account/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "设置",
+							"float": "left",
+							"fontSize": "14px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/account-manage",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "账户管理",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/my-account/my-account",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "我的账户",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/top-up/top-up",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "选择支付系统",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/trading-options/trading-options",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "交易设置",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/regulator/regulator",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "调节器",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/band-card/band-card",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "银行卡",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/add-cash-user/add-cash-user",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "请选择账户类型",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/add-simulation-user/add-simulation-user",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "请选择账户类型",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/select-account-currency/select-account-currency",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "请选择账户货币",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/band-card/credit-card-information/credit-card-information",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "输入信用卡资料",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/bank-transfer/bank-transfer",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "银行汇款",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/leverage/leverage",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "杠杆率",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/bill/bill",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "账单",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "40px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/bill/details-funds/details-funds",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "资金明细",
+								"float": "left",
+								"fontSize": "14px",
+								"width": "60px",
+								"color": "#212121"
+							},
+							{
+								"text": "\ue6ea",
+								"float": "right",
+								"fontSize": "18px",
+								"fontSrc": "/static/iconfont/iconfont.ttf"
+
+							}
+						]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/update-password/update-password",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "修改密码",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/equipment-activities/equipment-activities",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "设备活动",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/equipment-activities/equipment-activities-children/equipment-activities-children",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "设备活动",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/general-setting/general-setting",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "通用设置",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/general-setting/language-setting/language-setting",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "语言设置",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/general-setting/time-setting/time-setting",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "时区设置",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/general-setting/time-setting/time-select/time-select",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "时区选择",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/general-setting/watch-list/watch-list",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "观察名单类型",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/message-setting",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "消息设置",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/subscription-notification/subscription-notification",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "订阅通知",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/inbox/inbox",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "收件箱",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/inbox/deposit/deposit",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "存款",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/my-request/my-request",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "我的请求",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/all-news/all-news",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "所有新闻",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/help-center/help-center",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "帮助中心",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/help-center/learn-how-to-trade/learn-how-to-trade",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "学习如何交易",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/help-center/online-customer/online-customer",
+			"style": {
+				"navigationBarTitleText": "在线客服",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "",
+							"fontSize": "14px",
+							"width": "100px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/help-center/contact-us/contact-us",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "联系我们",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/help-center/leave-feedback/leave-feedback",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "留下反馈",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/my-account/account-verification/account-verification",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "账户未激活",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "80px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/bill/transaction-history/transaction-history",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "交易历史",
+								"float": "left",
+								"fontSize": "14px",
+								"width": "60px",
+								"color": "#212121"
+							},
+							{
+								"text": "\ue6ea",
+								"float": "right",
+								"fontSize": "18px",
+								"fontSrc": "/static/iconfont/iconfont.ttf"
+
+							}
+						]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/bill/transaction-history/overnight-charge/overnight-charge",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "",
+								"float": "left",
+								"fontSize": "14px",
+								"width": "60px",
+								"color": "#212121"
+							},
+							{
+								"text": "\ue6ea",
+								"float": "right",
+								"fontSize": "18px",
+								"fontSrc": "/static/iconfont/iconfont.ttf"
+
+							}
+						]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/account-manage/bill/historical-order/historical-order",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "历史订单",
+								"float": "left",
+								"fontSize": "14px",
+								"width": "60px",
+								"color": "#212121"
+							},
+							{
+								"text": "\ue6ea",
+								"float": "right",
+								"fontSize": "18px",
+								"fontSrc": "/static/iconfont/iconfont.ttf"
+
+							}
+						]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/inbox/completed-transaction/completed-transaction",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+								"text": "已完成交易",
+								"float": "left",
+								"fontSize": "14px",
+								"width": "80px",
+								"color": "#212121"
+							},
+							{
+								"text": "\ue6ea",
+								"float": "right",
+								"fontSize": "18px",
+								"fontSrc": "/static/iconfont/iconfont.ttf"
+
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/personInfo/personInfo",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+
+		{
+			"path": "pages/investigate/investigate2",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate3",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate4",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate5",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate6",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate7",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate8",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/investigate/investigate9",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/finish/finish",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/userInfo/userInfo",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/userInfo/birthday",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/userInfo/adress",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/userInfo/phone",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "common/userInfo-com/common-part/common-part",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/term/term",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/check/check",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/selfie/selfie",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/select/select",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+
+		,
+		{
+			"path": "pages/Upload/Upload",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/Upload/btnDisabled",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/cash-account/message-setting/inbox/performance-report/performance-report",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/my-account/transfer-money/transfer-money",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "转账",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/my-account/transfer-money/transfer-initiated/transfer-initiated",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "转账已发起",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "80px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/my-account/withdraw-cash/withdraw-cash",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "提现",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}, {
+			"path": "pages/my-account/withdraw-cash/cash-success/cash-success",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "提现成功",
+							"float": "left",
+							"fontSize": "14px",
+							"width": "60px",
+							"color": "#212121"
+						}]
+					}
+				}
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"scrollIndicator": "none"
+		}
+	},
+	"tabBar": {
+		"color": "#909399",
+		"selectedColor": "#12D18E",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "white",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/fonts/home.png",
+				"selectedIconPath": "static/fonts/home-s.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/price/price",
+				"iconPath": "static/fonts/price.png",
+				"selectedIconPath": "static/fonts/price-s.png",
+				"text": "行情"
+			},
+			{
+				"pagePath": "pages/transaction/transaction",
+				"iconPath": "static/fonts/transaction.png",
+				"selectedIconPath": "static/fonts/transaction-s.png",
+				"text": "交易"
+			},
+			{
+				"pagePath": "pages/property/property",
+				"iconPath": "static/fonts/property.png",
+				"selectedIconPath": "static/fonts/property.png",
+				"text": "资产"
+			}
+		]
+	}
+}

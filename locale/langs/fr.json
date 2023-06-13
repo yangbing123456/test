@@ -1,0 +1,1000 @@
+{
+  "home": {
+    "home": {
+      "5qz9yji27ew0": "compte de caisse A",
+      "5qz9yji28vs0": "total du portefeuille ",
+      "5qz9yji29780": "solde disponible ",
+      "5qz9yji29fk0": "stock chaud ",
+      "5qz9yji2j900": "nom ",
+      "5qz9yji2k4g0": "type (actions/indices, etc.)",
+      "5qz9yji2kds0": "cliquez pour aller à la page d’atterrissage ",
+      "5qz9yji2kj80": "stock 1",
+      "5qz9yji2kts0": "stock 2",
+      "5qz9yji2kz80": "stock 3",
+      "5qz9yji2l780": "stock 4",
+      "5qz9yji2lhk0": "en stock ",
+      "5qz9yji2lsg0": "index ",
+      "5qz9yji2lyo0": "pétrole brut ",
+      "5qz9yji2m840": "taux de précision"
+    }
+  },
+  "price": {
+    "price": {
+      "5qzag43g3h80": "s’il vous plaît entrer un mot-clé de recherche ",
+      "5qzag43g4m80": "nom/chiffre d’affaires ",
+      "5qzag43g4ww0": "changement d’heure ",
+      "5qzag43g5200": "dernier prix ",
+      "5qzag43g56s0": "faites votre choix ",
+      "5qzag43g5c00": "chaud ",
+      "5qzag43g5gg0": "offres du week-end ",
+      "5qzag43g5n80": "marchandises ",
+      "5qzag43g5sw0": "marché du pétrole brut ",
+      "5r02nqlr0qk0": "milliards"
+    }
+  },
+  "transaction": {
+    "transaction": {
+      "5qzwxhl8dp80": "acheter ",
+      "5qzwxhl8esw0": "vendu ",
+      "5qzwxhl8ey00": "disponible ",
+      "5qzwxhl8f100": "quantité (BTC)",
+      "5qzwxhl8f400": "exigence de marge ",
+      "5qzwxhl8f780": "acheter, quand le prix est atteint ",
+      "5qzwxhl8fa40": "valide jusqu’à ",
+      "5qzwxhl8feg0": "date ajoutée ",
+      "5qzwxhl8fho0": "stop loss ",
+      "5qzwxhl8fkc0": "général ",
+      "5qzwxhl8fn00": "chiffre numérique ",
+      "5qzwxhl8fps0": "ouvrir les options ",
+      "5qzwxhl8fs80": "niveau des prix ",
+      "5qzwxhl8fuw0": "le prix ",
+      "5qzwxhl8fxg0": "quantité ",
+      "5qzwxhl8g0g0": "pas de données disponibles ",
+      "5qzwxhl8g300": "s’il vous plaît entrer un mot-clé de recherche ",
+      "5qzwxhl8g5g0": "dépôt de garantie ",
+      "5qzwxhl8g7w0": "montant nécessaire pour commencer l’échange ",
+      "5qzwxhl8gbk0": "ok ",
+      "5qzwxhl8gg00": "ajouter un rappel ",
+      "5qzwxhl8gi80": "ajouter aux favoris ",
+      "5qzwxhl8gks0": "mode d’affichage de la table déléguée ",
+      "5qzwxhl8gmo0": "confirmé ",
+      "5qzwxhl8gp00": "profondeur d’affichage de la table déléguée ",
+      "5qzwxhl8gqw0": "commande ",
+      "5qzwxhl8gt00": "introduction ",
+      "5qzwxhl8gus0": "nouvelles ",
+      "5qzwxhl8gww0": "par défaut ",
+      "5qzwxhl8gzs0": "afficher les achats ",
+      "5qzwxhl8h1o0": "afficher à vendre ",
+      "5qzwzzrx5is0": "perte ",
+      "5qzwzzrx71s0": "chiffre numérique ",
+      "5qzwzzrx7980": "profitable ",
+      "5qzwzzrx7d40": "le plus haut ",
+      "5qzwzzrx7gw0": "le plus bas ",
+      "5qzwzzrx7kg0": "volume des transactions"
+    },
+    "trendchart": {
+      "5r02ub67ypw0": "le plus haut ",
+      "5r02ub6802s0": "le plus bas ",
+      "5r02ub680e00": "volume des transactions ",
+      "5r02ub680k80": "pas de données disponibles ",
+      "5r02ub680pw0": "ordre ",
+      "5r02ub680vo0": "diagramme de profondeur ",
+      "5r02ub681100": "dernière vente"
+    }
+  },
+  "property": {
+    "property": {
+      "5qzx1gr7b0s0": "compte de caisse A"
+    }
+  },
+  "common": {
+    "GupiaoComponent": {
+      "5qzx35qf9m00": "mon portefeuille ",
+      "5qzx35qfb7k0": "nom ",
+      "5qzx35qfbis0": "type (actions/indices, etc.)",
+      "5qzx35qfbp40": "stock 1",
+      "5qzx35qfbu40": "stock 2",
+      "5qzx35qfbzs0": "stock 3",
+      "5qzx35qfc5w0": "en stock 4"
+    },
+    "pagination": {
+      "5qzxas4nxn40": "questionnaire ",
+      "5qzxas4nz480": "changement de langue ",
+      "5qzxas4nzg40": "effets mobiles"
+    }
+  },
+  "login": {
+    "login": {
+      "5qzx4k4llao0": "changement de langue ",
+      "5qzx4k4lmrk0": "continuer avec Apple ",
+      "5qzx4k4ln7s0": "continuer avec Google ",
+      "5qzx4k4lnew0": "continuer avec Facebook ",
+      "5qzx4k4lnk80": "utiliser l’email pour continuer ",
+      "5qzx4k4lnq40": "vous avez déjà un compte?",
+      "5qzx4k4lnvo0": "se connecter ",
+      "5qzx4k4lo5o0": "en ouvrant un compte, j’accepte ",
+      "5qzx4k4lock0": "politique de confidentialité ",
+      "5qzx4k4lohw0": "le trading est risqué. Vous pouvez perdre tout votre capital investi."
+    }
+  },
+  "register": {
+    "register": {
+      "5qzx5pfvva40": "adresse e-mail enregistrée ",
+      "5qzx5pfvwhw0": "changement de langue ",
+      "5qzx5pfvwqc0": "bienvenue à l’inscription ",
+      "5qzx5pfvwvw0": "boîte aux lettres ",
+      "5qzx5pfvx140": "s’il vous plaît entrer le numéro d’email ",
+      "5qzx5pfvx7g0": "mot de passe ",
+      "5qzx5pfvxcw0": "s’il vous plaît entrer le mot de passe de l’email ",
+      "5qzx5pfvxhw0": "en ouvrant un compte, j’accepte ",
+      "5qzx5pfvxn40": "politique de confidentialité ",
+      "5qzx5pfvxs40": "continuer ",
+      "5qzx5pfvxxg0": "vous avez déjà un compte?",
+      "5qzx5pfvy2o0": "se connecter"
+    }
+  },
+  "personInfo": {
+    "personInfo": {
+      "5qzx7hnlw2k0": "résidence et nationalité ",
+      "5qzx7hnlx0o0": "changement de langue ",
+      "5qzx7hnlx7g0": "s’il vous plaît remplir les informations personnelles ",
+      "5qzx7hnlxao0": "vous serez autorisé et réglementé par la commission des valeurs mobilières des Bahamas (sia-f245) ",
+      "5qzx7hnlxds0": "nom du logiciel ",
+      "5qzx7hnlxo00": "en continuant, vous acceptez notre ",
+      "5qzx7hnlxr40": "politique de confidentialité ",
+      "5qzx7hnlxts0": "pays de résidence ",
+      "5qzx7hnlxwg0": "région administrative spéciale de Hong Kong ",
+      "5qzx7hnlxz00": "je ne suis pas un résident fiscal des États-Unis ",
+      "5qzx7hnly280": "continuer ",
+      "5qzx7hnly4w0": "vous avez déjà un compte?",
+      "5qzx7hnly780": "se connecter ",
+      "5qzx913h37s0": "et nous permettre de vous contacter au sujet de votre application et de nos produits."
+    }
+  },
+  "investigate": {
+    "investigate": {
+      "5qzxa22i2fo0": "la raison de l’ouverture du compte ",
+      "5qzxa22i3es0": "sélectionnez votre réponse pour passer à la question suivante ",
+      "5qzxa22i3u80": "accès aux marchés financiers ",
+      "5qzxa22i42w0": "couverture d’autres marchés ",
+      "5qzxa22i49c0": "investissement à court terme"
+    },
+    "investigate2": {
+      "5qzxdmbnlcw0": "la raison de l’ouverture du compte ",
+      "5qzxdmbnn5w0": "choisissez votre réponse pour passer à la question suivante ",
+      "5qzxdmbnnhs0": "moins d’un an ",
+      "5qzxdmbnno40": "plus d’un an ",
+      "5qzxdmbnnto0": "plus de 2 ans ",
+      "5qzxdmbno2w0": "plus de 4 ans ",
+      "5qzxdmbno980": "pas du tout"
+    },
+    "investigate3": {
+      "5qzxehscunc0": "quel est votre niveau d’éducation le plus élevé?",
+      "5qzxehscw1g0": "sélectionnez votre réponse pour passer à la question suivante ",
+      "5qzxehscwak0": "Docteur ",
+      "5qzxehscwfk0": "Maître ",
+      "5qzxehscwk80": "bachelor ",
+      "5qzxehscwps0": "école secondaire"
+    },
+    "investigate4": {
+      "5qzxemt09fg0": "situation de l’emploi ",
+      "5qzxemt0ak40": "choisissez votre réponse pour passer à la question suivante ",
+      "5qzxemt0aw40": "salarié/indépendant ",
+      "5qzxemt0b0w0": "retraité ",
+      "5qzxemt0b5k0": "à travailler"
+    },
+    "investigate5": {
+      "5qzxeptzeuo0": "l’industrie dans laquelle vous travaillez ",
+      "5qzxeptzge00": "sélectionnez votre réponse pour passer à la question suivante ",
+      "5qzxeptzgsc0": "services financiers ",
+      "5qzxeptzgys0": "administration, informatique et soutien aux entreprises ",
+      "5qzxeptzh3s0": "soins de santé et éducation ",
+      "5qzxeptzh9g0": "commerce de détail et de gros ",
+      "5qzxeptzhfc0": "industries extractives, manufacturières et du bâtiment ",
+      "5qzxeptzhkw0": "immobilier ",
+      "5qzxeptzhqg0": "tourisme et divertissement ",
+      "5qzxeptzhyk0": "transport et logistique ",
+      "5qzxeptzi3s0": "autre"
+    },
+    "investigate6": {
+      "5qzxes9v8640": "votre revenu annuel brut ",
+      "5qzxes9v93w0": "choisissez votre réponse pour passer à la question suivante ",
+      "5qzxes9v9fg0": "Moins de 20 000 $ou plus"
+    },
+    "investigate7": {
+      "5qzxeu86u3s0": "quelle est la valeur de votre fortune actuelle? ",
+      "5qzxeu86vdg0": "choisissez votre réponse pour passer à la question suivante ",
+      "5qzxeu86vno0": "Moins de 20 000 $ou plus"
+    },
+    "investigate8": {
+      "5qzxewew4cc0": "quelle est votre source de revenu et de richesse? ",
+      "5qzxewew5k00": "sélectionnez votre réponse pour passer à la question suivante ",
+      "5qzxewew5ug0": "salaires/revenus d’exploitation ",
+      "5qzxewew60k0": "épargne/investissement ",
+      "5qzxewew66c0": "pension/loyer ",
+      "5qzxewew6co0": "droit de succession ",
+      "5qzxewew6mo0": "prêt/prêt"
+    },
+    "investigate9": {
+      "5qzxezl8nmw0": "avez-vous pensé à votre capacité à prendre des risques et à supporter des pertes?",
+      "5qzxezl8omo0": "choisissez votre réponse pour passer à la question suivante ",
+      "5qzxezl8ow00": "ok ",
+      "5qzxezl8p440": "je peux prendre le risque et supporter la perte ",
+      "5qzxezl8pbs0": "je ne peux pas prendre le risque ou la perte"
+    }
+  },
+  "finish": {
+    "finish": {
+      "5qzxn6d8nm80": "félicitations pour avoir réussi le questionnaire ",
+      "5qzxn6d8os40": "identifiez-vous maintenant, après quoi vous pouvez effectuer la transaction ",
+      "5qzxn6d8p2g0": "continuer"
+    }
+  },
+  "userInfo": {
+    "userInfo": {
+      "5qzxo6skag00": "informations personnelles ",
+      "5qzxo6skbm80": "changement de langue ",
+      "5qzxo6skbwg0": "veuillez entrer votre nom ",
+      "5qzxo6skc300": "les informations saisies correspondent aux informations de la carte d’identité/passeport ",
+      "5qzxo6skc7w0": "mâle ",
+      "5qzxo6skcdc0": "femme ",
+      "5qzxo6skchs0": "nom ",
+      "5qzxo6skcmg0": "veuillez entrer votre nom ",
+      "5qzxo6ske1c0": "deuxième prénom (facultatif)",
+      "5qzxo6ske880": "veuillez entrer votre deuxième prénom ",
+      "5qzxo6skeck0": "nom de famille ",
+      "5qzxo6skeww0": "veuillez entrer votre nom de famille ",
+      "5qzxo6skf8c0": "continuer ",
+      "5qzxo6skfe80": "s’il vous plaît remplir le nom"
+    },
+    "birthday": {
+      "5qzxpqfjtv00": "informations personnelles ",
+      "5qzxpqfjuwg0": "changement de langue ",
+      "5qzxpqfjv340": "date de naissance ",
+      "5qzxpqfjv6o0": "les informations saisies correspondent aux informations de la carte d’identité/passeport ",
+      "5qzxpqfjv9s0": "veuillez entrer la date de naissance réelle ",
+      "5qzxpqfjvcw0": "continuer"
+    },
+    "adress": {
+      "5qzxqqf1cg40": "informations personnelles ",
+      "5qzxqqf1dpo0": "changement de langue ",
+      "5qzxqqf1e280": "adresse résidentielle ",
+      "5qzxqqf1e9g0": "entrez les informations réelles ",
+      "5qzxqqf1ef80": "rue ",
+      "5qzxqqf1enc0": "s’il vous plaît entrer une rue ",
+      "5qzxqqf1esw0": "numéro de bâtiment ",
+      "5qzxqqf1ey80": "veuillez entrer le numéro du bâtiment ",
+      "5qzxqqf1f400": "appartement ",
+      "5qzxqqf1f900": "s’il vous plaît entrer appartement ",
+      "5qzxqqf1fds0": "ville ",
+      "5qzxqqf1fj00": "s’il vous plaît entrer une ville ",
+      "5qzxqqf1fo00": "continuer"
+    },
+    "phone": {
+      "5qzxrcp1ahw0": "informations personnelles ",
+      "5qzxrcp1bx00": "changement de langue ",
+      "5qzxrcp1c9k0": "numéro de téléphone ",
+      "5qzxrcp1cfw0": "continuer"
+    }
+  },
+  "term": {
+    "term": {
+      "5qzxs1cwpko0": "termes et politiques ",
+      "5qzxs1cws7g0": "changement de langue ",
+      "5qzxs1cwzh80": "termes et politiques ",
+      "5qzxs1cwzwc0": "je déclare avoir lu, compris et accepté ce qui suit ",
+      "5qzxs1cx0440": "continuer"
+    }
+  },
+  "check": {
+    "check": {
+      "5qzxsk7izhk0": "veuillez patienter ",
+      "5qzxsk7j0yc0": "nous vérifions votre profil"
+    }
+  },
+  "selfie": {
+    "selfie": {
+      "5qzxszbnauo0": "prenez une vidéo selfie ",
+      "5qzxszbnchc0": "pour des raisons de sécurité, nous avons besoin d’une capture en temps réel pour compléter le processus de vérification ",
+      "5qzxszbncx80": "pièce d’identité",
+      "5qzxszbnd7s0": "photographiez votre pièce d’identité ",
+      "5qzxszbndhs0": "selfie ",
+      "5qzxszbndpc0": "cela ne prend qu’une minute ",
+      "5qzxszbndw00": "en cliquant sur continuer, vous acceptez nos ",
+      "5qzxszbne0w0": "termes et conditions ",
+      "5qzxszbnfkc0": "et nous consentons au traitement de vos informations personnelles, comme décrit dans les détails ",
+      "5qzxszbnfw00": "consentement au traitement des informations personnelles ",
+      "5qzxszbng1o0": "continuer ",
+      "5qzxszbng7k0": "créé par ",
+      "5qzxszbngd80": "fournir un soutien"
+    }
+  },
+  "select": {
+    "select": {
+      "5qzxtuylf2g0": "sélectionnez le pays/région d’émission de votre pièce d’identité ",
+      "5qzxtuylg640": "Hong Kong ",
+      "5qzxtuylgeo0": "choisissez votre type de fichier ",
+      "5qzxtuylgk80": "cliquez sur la caméra pour prendre une photo, téléchargez l’image ",
+      "5qzxtuylgow0": "si vous ne trouvez pas votre type de document ou votre pays d’émission, veuillez contacter ",
+      "5qzxtuylguc0": "support client ",
+      "5qzxtuylh3g0": "par ",
+      "5qzxtuylh840": "fournir un soutien ",
+      "5qzxtuylhdg0": "s’il vous plaît entrer un mot-clé de recherche ",
+      "5qzxtuylhi00": "vous pouvez nous contacter par l’un des moyens suivants: ",
+      "5qzxtuylhmc0": "envoyez-nous un e-mail ",
+      "5qzxtuylhqo0": "nous serons heureux de vous aider.",
+      "5qzxtuylhv00": "envoyez-nous simplement vos questions.",
+      "5qzxtuylikg0": "propulsé par Sumsub ",
+      "5qzxtuylj5g0": "passeport ",
+      "5qzxtuyljk00": "permis de conduire ",
+      "5qzxtuyljps0": "carte d’identité ",
+      "5qzxtuyljug0": "carnet de domicile/permis de séjour"
+    }
+  },
+  "Upload": {
+    "Upload": {
+      "5qzxumbbths0": "passeport ",
+      "5qzxumbbuzo0": "s’assurer que toutes les informations sur le document sont bien visibles et faciles à lire ",
+      "5qzxumbbvb40": "remake ",
+      "5qzxumbbvgs0": "fichier lisible ",
+      "5qzxumbbvlo0": "créé par ",
+      "5qzxumbbvqo0": "fournir un soutien"
+    },
+    "btnDisabled": {
+      "5qzxv368nak0": "télécharger ",
+      "5qzxv368oz80": "message d’erreur d’affichage de pop-ups analogique ",
+      "5qzxv368pa00": "refilmer ",
+      "5qzxv368pf00": "fichier lisible ",
+      "5qzxv368pl40": "créé par ",
+      "5qzxv368ppk0": "fournir un soutien ",
+      "5qzxv368pu80": "message d’erreur ",
+      "5qzxv368pyo0": "impossible de lire correctement les informations de votre fichier. Assurez-vous que les données ne sont pas masquées, claires et complètement visibles. Veuillez également vous assurer que vous avez sélectionné le bon type de document et le bon pays.",
+      "5qzxv368q400": "réessayer"
+    }
+  },
+  "cash-account": {
+    "index": {
+      "5qzy2gp8ieo0": "passer rapidement en mode analogique ",
+      "5qzy2gp8jp40": "déconnexion ",
+      "5qzy2gp8k140": "gestion de compte ",
+      "5qzy2gp8ka40": "réglages généraux ",
+      "5qzy2gp8kgg0": "paramètres du message ",
+      "5qzy2gp8kng0": "centre d’aide"
+    }
+  },
+  "account-manage": {
+    "account-manage": {
+      "5qzy3octe4w0": "mon compte ",
+      "5qzy3octhhg0": "la facture ",
+      "5qzy3octi4o0": "changer le mot de passe ",
+      "5qzy3octibg0": "activité de l’équipement ",
+      "5qzy3octigw0": "compte inactif"
+    }
+  },
+  "my-account": {
+    "my-account": {
+      "5qzy4f5vw1c0": "actif ",
+      "5qzy4f5vxbo0": "êtes-vous sûr de supprimer le compte xx?",
+      "5qzy4f5vxm00": "annulé ",
+      "5qzy4f5vxr00": "supprimer ",
+      "5qzy4f5vxvo0": "renommer ",
+      "5qzy4f5vy180": "nom du compte ",
+      "5qzy4f5vy5w0": "veuillez renseigner le nom d’utilisateur ",
+      "5qzy4f5vycs0": "confirmer la modification ",
+      "5qzy4f5vykc0": "nom du compte _ informations de connexion ",
+      "5qzy4f5vyos0": "levier forex ",
+      "5qzy4f5vyso0": "levier ",
+      "5qzy4f5vyz80": "terminé ",
+      "5qzy4f5vz380": "ajouter un compte cash ",
+      "5qzy4f5vz8k0": "ajouter un compte analogique ",
+      "5qzy4f5vzd40": "compte de caisse ",
+      "5qzy4f5vzgo0": "compte analogique ",
+      "5qzy4f5vzl80": "se connecter ",
+      "5qzy4f5vzps0": "serveur ",
+      "5qzy4f5vzu40": "serveur 1",
+      "5qzy4f5vzzk0": "serveur 2",
+      "5qzy4f5w0600": "serveur 3",
+      "5qzy4f5w09s0": "serveur 4",
+      "5qzy4f5w0dw0": "recharge ",
+      "5qzy4f5w0i00": "transfert d’argent ",
+      "5qzy4f5w0lk0": "retrait ",
+      "5qzy4f5w0p40": "options de trading ",
+      "5qzy4f5w0ss0": "supprimer le compte ",
+      "5qzy4f5w0zg0": "informations de connexion ",
+      "5qzy4f5w13k0": "régulateur ",
+      "5qzy4f5w18c0": "disponible ",
+      "5qzy4f5w1bo0": "gains ",
+      "5qzy4f5w1eg0": "pertes et profits ",
+      "5qzy4f5w1hk0": "dépôt de garantie"
+    }
+  },
+  "top-up": {
+    "top-up": {
+      "5qzy6q26rn40": "continuer ",
+      "5qzy6q26t3k0": "derniers moyens de paiement utilisés ",
+      "5qzy6q26tg80": "ajouter une nouvelle méthode de paiement ",
+      "5qzy6q26tms0": "carte bancaire ",
+      "5qzy6q26tsk0": "virement bancaire"
+    }
+  },
+  "band-card": {
+    "band-card": {
+      "5qzy7afbjo00": "quantité ",
+      "5qzy7afbl400": "s’il vous plaît remplir la quantité ",
+      "5qzy7afbleg0": "continuer ",
+      "5qzy7afbln40": "vos fonds sont en sécurité et protégés par notre politique d’indemnisation des investisseurs."
+    }
+  },
+  "credit-card-information": {
+    "credit-card-information": {
+      "5qzy89dw2dk0": "quantité ",
+      "5qzy89dw3ic0": "numéro de carte bancaire ",
+      "5qzy89dw3sc0": "s’il vous plaît entrer le numéro de carte bancaire ",
+      "5qzy89dw3y40": "date d’expiration ",
+      "5qzy89dw4340": "veuillez entrer une date d’expiration ",
+      "5qzy89dw4800": "nom du titulaire de la carte ",
+      "5qzy89dw4cc0": "veuillez entrer le nom du titulaire de la carte ",
+      "5qzy89dw4gg0": "titulaire de carte ",
+      "5qzy89dw4lc0": "veuillez autoriser l’accès à la caméra ",
+      "5qzy89dw4q80": "cela permet ",
+      "5qzy89dw4ug0": "nom du logiciel ",
+      "5qzy89dw52k0": "téléchargez une photo en accédant à votre appareil photo. Cherchez la touche de commutation caméra.",
+      "5qzy89dw57c0": "annulé ",
+      "5qzy89dw5cc0": "aller aux paramètres ",
+      "5qzy89dw5h40": "la date est située sous le numéro de la carte bancaire ",
+      "5qzy89dw5lk0": "ok ",
+      "5qzy89dw5qg0": "le code à trois chiffres de la carte de crédit se trouve au dos de la carte ",
+      "5qzy89dw5us0": "le compte externe et vous déposez ",
+      "5qzy89dw5yw0": "les fonds du compte appartiennent à votre nom. Aucun paiement de tiers ne sera accepté. Après avoir déposé des fonds à votre ",
+      "5qzy89dw63g0": "lors du compte, vous ne pouvez pas utiliser les cartes bancaires et les comptes bancaires de tiers.",
+      "5qzy89dw69c0": "fermé ",
+      "5qzy89dw6f00": "veuillez entrer un numéro de carte valide/ces cartes ne sont pas supportées pour le moment ",
+      "5qzy89dw6jc0": "la date d’expiration est obligatoire ",
+      "5qzy89dw6mo0": "code de sécurité requis ",
+      "5qzy89dw6q80": "le nom du titulaire de la carte est obligatoire ",
+      "5qzy89dw6ts0": "vérification passée ",
+      "5qzy89dw6xc0": "la vérification a échoué ",
+      "5qzy9t5nqr80": "je suis sûr que je suis ",
+      "5qzyabt4c5s0": "vous déclarez et garantissez"
+    }
+  },
+  "bank-transfer": {
+    "bank-transfer": {
+      "5qzyb7o2hv40": "rappel chaleureux ",
+      "5qzyb7o2iy00": "commission; Prend jusqu’à cinq jours ouvrables; Recevoir uniquement des fonds provenant de comptes bancaires personnels; Pour des raisons réglementaires, nous ne pouvons accepter les dépôts en provenance des États-Unis.",
+      "5qzyb7o2j600": "partager les détails de paiement ",
+      "5qzyb7o2jb80": "le destinataire ",
+      "5qzyb7o2jfw0": "remarques sur le transfert d’argent ",
+      "5qzyb7o2jkg0": "la banque ",
+      "5qzyb7o2jrk0": "adresse de la banque ",
+      "5qzyb7o2jw80": "monnaie"
+    }
+  },
+  "trading-options": {
+    "trading-options": {
+      "5qzyd1cj6lw0": "trading en un clic ",
+      "5qzyd1cj7ks0": "ouvrir une position en un clic ",
+      "5qzyd1cj7q00": "veuillez noter ",
+      "5qzyd1cj7tc0": "je comprends qu’une fois que la fonction de trading en un clic est activée, il suffit d’ouvrir/fermer une position en un clic, et il est impossible d’annuler la transaction ",
+      "5qzyd1cj7w00": "annulé ",
+      "5qzyd1cj7yw0": "activé ",
+      "5qzyd1cj81o0": "levier ",
+      "5qzyd1cj8480": "mode régulier ",
+      "5qzyd1cj8780": "une opération de trading inverse fermera d’abord une transaction existante ",
+      "5qzyd1cj89o0": "mode hedge ",
+      "5qzyd1cj8dg0": "un marché peut être négocié dans les deux sens"
+    }
+  },
+  "transfer-money": {
+    "transfer-money": {
+      "5qzyf33vh2g0": "veuillez indiquer le montant du transfert ",
+      "5qzyf33vi1o0": "vos fonds sont en sécurité et protégés par notre politique d’indemnisation des investisseurs.",
+      "5qzyf33vi6o0": "transfert d’argent ",
+      "5qzyf33vi9o0": "compte de caisse A",
+      "5qzyf33vics0": "compte de trésorerie B"
+    }
+  },
+  "transfer-initiated": {
+    "transfer-initiated": {
+      "5qzyfrqjc8g0": "le transfert a été lancé ",
+      "5qzyfrqjdmw0": "sera de ",
+      "5qzyfrqjdx00": "compte de trésorerie A (nom de l’utilisateur) ",
+      "5qzyfrqje380": "transfert à ",
+      "5qzyfrqje7s0": "compte de trésorerie B (nom de l’utilisateur) ",
+      "5qzyfrqjed80": "ok"
+    }
+  },
+  "withdraw-cash": {
+    "withdraw-cash": {
+      "5qzygfbgm400": "disponible ",
+      "5qzygfbgnh00": "veuillez remplir les fonds disponibles ",
+      "5qzygfbgnw80": "la quantité ",
+      "5qzygfbgo4o0": "veuillez indiquer le montant du retrait ",
+      "5qzygfbgoa80": "le montant ne doit pas être inférieur à 50 minimum et supérieur à 10.000 maximum",
+      "5qzygfbgofk0": "ok"
+    }
+  },
+  "cash-success": {
+    "cash-success": {
+      "5qzygwefrkw0": "retrait réussi, arrivé dans les XX heures s’il vous plaît aller sous le compte de retrait correspondant pour la recherche ",
+      "5qzygweftrg0": "ok"
+    }
+  },
+  "account-verification": {
+    "account-verification": {
+      "5qzyhfsr86w0": "contenu personnalisé ",
+      "5qzyhfsrjak0": "sorti du dépôt ",
+      "5qzyhfsrkz40": "en transit ",
+      "5qzyhfsrlck0": "mon compte ",
+      "5qzyhfsrlis0": "email vérifié avec succès ",
+      "5qzyhfsrlpk0": "upload id ",
+      "5qzyhfsrlus0": "démarrer le commerce"
+    }
+  },
+  "leverage": {
+    "leverage": {
+      "5qzyi9ggems0": "ok ",
+      "5qzyi9ggg4w0": "monnaie ",
+      "5qzyi9ggggc0": "index ",
+      "5qzyi9gggls0": "marchandises ",
+      "5qzyi9gggqg0": "stock ",
+      "5qzyi9gggvo0": "crypto-monnaie ",
+      "5qzyi9gglgk0": "pour la principale paire de devises: composée de deux des éléments suivants: usd, eur, GBP, cad, jpy, CHF ",
+      "5qzyi9gglns0": "pour les paires de devises mineures ",
+      "5qzyi9ggmz40 ": " s’applique aux principales monnaies: UK100, FR40 DE30, US500, US100, J225, EU50, US30, AU200 ",
+      "5qzyi9ggn7g0": "convient à l’or ",
+      "5qzyi9ggnck0": "pour toutes les matières premières sauf l’or"
+    }
+  },
+  "regulator": {
+    "regulator": {
+      "5qzyj7gx6k40": "fonds disponibles ",
+      "5qzyj7gx8bg0": "s’il vous plaît remplir les fonds disponibles ",
+      "5qzyj7gx8s80": "ok"
+    }
+  },
+  "select-account-currency": {
+    "select-account-currency": {
+      "5qzyjogft4k0": "créé ",
+      "5qzyjogfvzc0": "ajouter un compte ",
+      "5qzyjogfwhc0": "nom du compte ",
+      "5qzyjogfwq40": "s’il vous plaît remplir le nom du compte"
+    }
+  },
+  "add-simulation-user": {
+    "add-simulation-user": {
+      "5qzykmjxw5k0": "continuer ",
+      "5qzykmjxxa00": "créer un compte pour trader sur MT4"
+    }
+  },
+  "add-cash-user": {
+    "add-cash-user": {
+      "5qzyl5fr7gk0": "continuer ",
+      "5qzyl5fr8j40": "créer un compte pour trader sur MT4"
+    }
+  },
+  "bill": {
+    "bill": {
+      "5qzylk6fv0s0": "détails des fonds ",
+      "5qzylk6fwcc0": "historique des transactions ",
+      "5qzylk6fwko0": "commandes historiques"
+    }
+  },
+  "details-funds": {
+    "details-funds": {
+      "5qzym36ug400": "classification des fonds ",
+      "5qzym36uhqo0": "terminé ",
+      "5qzym36ui200": "classification du temps ",
+      "5qzym36ui8o0": "dernière heure ",
+      "5qzym36uieg0": "geste glisser à gauche et à droite pour voir plus ",
+      "5qzym36uil00": "personnalisé ",
+      "5qzym36uiqg0": "le rapport sera envoyé à votre adresse e-mail ",
+      "5qzym36uivk0": "annulé ",
+      "5qzym36uj140": "envoyer ",
+      "5qzym36uj680": "tous ",
+      "5qzym36ujb80": "dépôt ",
+      "5qzym36ujh00": "retrait ",
+      "5qzym36ujp80": "transfert d’argent ",
+      "5qzym36ujuk0": "retrait remboursé ",
+      "5qzym36ujzs0": "frais de nuit pour les transactions terminées ",
+      "5qzym36uk4w0": "correction ",
+      "5qzym36ukb00": "bonus ",
+      "5qzym36ukgw0": "remise ",
+      "5qzym36ukmg0": "commission ",
+      "5qzym36ukro0": "trade slip point protection ",
+      "5qzym36ul2g0": "fonds initial ",
+      "5qzym36ulao0": "total modifié ",
+      "5qzym36uljo0": "à revoir ",
+      "5qzym36uloo0": "balance courante ",
+      "5qzym36ulso0": "aujourd’hui ",
+      "5qzym36ulww0": "frais de nuit ",
+      "5qzym36um0w0": "traitement terminé ",
+      "5qzym36um4s0": "hier ",
+      "5r048henc4w0": "le jour ",
+      "5r04cekgc980": "heures ",
+      "5r04cekgdt40": "semaine ",
+      "5r04cekge7c0": "mois"
+    }
+  },
+  "historical-order": {
+    "historical-order": {
+      "5qzymqtku0o0": "classification des fonds ",
+      "5qzymqtkw6o0": "terminé ",
+      "5qzymqtkwmc0": "classification du temps ",
+      "5qzymqtkwus0": "dernière heure ",
+      "5qzymqtkx180": "geste glisser gauche et droite pour voir plus ",
+      "5qzymqtkx8w0": "personnalisé ",
+      "5qzymqtkxg00": "le rapport sera envoyé à votre adresse e-mail ",
+      "5qzymqtkxmk0": "annuler ",
+      "5qzymqtkxt80": "envoyer ",
+      "5qzymqtky240": "tous ",
+      "5qzymqtkyd00": "créé ",
+      "5qzymqtkyjk0": "exécuté ",
+      "5qzymqtkypc0": "refusé ",
+      "5qzymqtkywc0": "modification réussie ",
+      "5qzymqtkz1s0": "annulé ",
+      "5qzymqtkz6o0": "invalide ",
+      "5qzymqtkzec0": "fonds initial ",
+      "5qzymqtkzk40": "total modifié ",
+      "5qzymqtkzow0": "à revoir ",
+      "5qzymqtkzuk0": "balance courante ",
+      "5qzymqtl04w0": "aujourd’hui ",
+      "5qzymqtl0ag0": "l’ordre a été exécuté avec succès ",
+      "5qzymqtl0fo0": "nom de stock XXXXXXX",
+      "5qzymqtl0j40": "ordre limité ",
+      "5qzymqtl0ms0": "commande créée avec succès ",
+      "5r0sqtef4b00": "heures ",
+      "5r0sqtef62g0": "semaine ",
+      "5r0sqtef6bw0": "mois ",
+      "5r0sqtef6h80": "jour"
+    }
+  },
+  "transaction-history": {
+    "transaction-history": {
+      "5qzyn81k7ww0": "classification des fonds ",
+      "5qzyn81k9jw0": "terminé ",
+      "5qzyn81k9w40": "classification du temps ",
+      "5qzyn81ka280": "dernière heure ",
+      "5qzyn81ka880": "geste glisser à gauche et à droite pour voir plus ",
+      "5qzyn81kags0": "personnalisé ",
+      "5qzyn81kan00": "le rapport sera envoyé à votre adresse e-mail ",
+      "5qzyn81kask0": "annulé ",
+      "5qzyn81kayg0": "envoyer ",
+      "5qzyn81kb6c0": "tous ",
+      "5qzyn81kbbo0": "position ouverte ",
+      "5qzyn81kbgw0": "réglé ",
+      "5qzyn81kbl40": "modification réussie ",
+      "5qzyn81kbpo0": "frais de nuit ",
+      "5qzyn81kbu80": "ajustement des dividendes ",
+      "5qzyn81kby80": "fonds initial ",
+      "5qzyn81kc4o0": "total modifié ",
+      "5qzyn81kc9o0": "à revoir ",
+      "5qzyn81kce00": "balance courante ",
+      "5qzyn81kcj40": "aujourd’hui ",
+      "5qzyn81kcqc0": "nom de stock XXXXXXX",
+      "5qzyn81kcu80": "hier ",
+      "5qzyn81kcys0": "ordre de trading réussi ",
+      "5qzyn81kd2c0": "transaction terminée ",
+      "5r0skcc64ts0": "le jour ",
+      "5r0sn0b8n3c0": "heures ",
+      "5r0sohtdtb00": "semaine ",
+      "5r0sohtdv9w0": "mois"
+    }
+  },
+  "overnight-charge": {
+    "overnight-charge": {
+      "5qzynre76a00": "frais de nuit ",
+      "5qzynre77fo0": "l’ordre a été exécuté avec succès ",
+      "5qzynre77ow0": "commande créée avec succès ",
+      "5qzynre77uo0": "le rapport sera envoyé à votre adresse e-mail ",
+      "5qzynre78040": "annuler ",
+      "5qzynre786c0": "envoyer ",
+      "5qzynre78b40": "numéro de commande ",
+      "5qzynre78g40": "le côté déclencheur ",
+      "5qzynre78l00": "utilisateur ",
+      "5qzynre78ps0": "monnaie ",
+      "5qzynre78uo0": "position ouverte ",
+      "5qzynre792w0": "créé ",
+      "5qzynre7cac0": "prix par commande"
+    }
+  },
+  "equipment-activities": {
+    "equipment-activities": {
+      "5qzypnp9yaw0": "session active ",
+      "5qzypnp9zgk0": "région administrative spéciale de Hong Kong ",
+      "5qzypnp9zro0": "actuellement actif ",
+      "5qzypnp9zyo0": "session précédente ",
+      "5qzypnpa0440": "hier - Singapour ",
+      "5qzypnpa09k0": "emirats arabes unis ",
+      "5qzypnpa0dw0": "Corée du Sud"
+    }
+  },
+  "equipment-activities-children": {
+    "equipment-activities-children": {
+      "5qzyri0lai80": "la position est une approximation basée sur l’adresse IP ",
+      "5qzyri0lbt40": "connexion réussie ",
+      "5qzyri0lc440": "échec à obtenir l’adresse, certaines fonctions seront indisponibles ",
+      "5r0y79jbwkg0": "il y a quelques heures"
+    }
+  },
+  "update-password": {
+    "update-password": {
+      "5qzystpe0s80": "mot de passe actuel ",
+      "5qzystpe27o0": "veuillez entrer votre mot de passe actuel ",
+      "5qzystpe2i80": "nouveau mot de passe ",
+      "5qzystpe2r00": "veuillez entrer un nouveau mot de passe ",
+      "5qzystpe2x40": "confirmer le mot de passe ",
+      "5qzystpe32o0": "s’il vous plaît entrer à nouveau le nouveau mot de passe ",
+      "5qzystpe37g0": "sauvegarder ",
+      "5qzystpe3bs0": "tous les champs sont obligatoires ",
+      "5qzystpe3ik0": "nouveau mot de passe incohérent"
+    }
+  },
+  "general-setting": {
+    "general-setting": {
+      "5qzz5btvxts0": "veuillez noter ",
+      "5qzz5btvyvg0": "est-ce activé?",
+      "5qzz5btvz080": "annulé ",
+      "5qzz5btvz340": "activé ",
+      "5qzz5btvz600": "paramètres de langue ",
+      "5qzz5btvzao0": "réglage du fuseau horaire ",
+      "5qzz5btvze40": "dark mode ",
+      "5qzz5btvzhg0": "type de liste de surveillance"
+    }
+  },
+  "watch-list": {
+    "watch-list": {
+      "5qzz5rytb4k0": "aperçu de l’effet ",
+      "5qzz5rytcfk0": "vue normale ",
+      "5qzz5rytco00": "mode lite ",
+      "5qzz5rytcto0": "mode carte ",
+      "5qzz5rytd200": "mode trading"
+    }
+  },
+  "time-setting": {
+    "time-setting": {
+      "5qzz65haghg0": "veuillez noter ",
+      "5qzz65hahp80": "est-ce activé?",
+      "5qzz65hahx40": "annulé ",
+      "5qzz65hai2g0": "activé ",
+      "5qzz65hai7g0": "automatique"
+    }
+  },
+  "time-select": {
+    "time-select": {
+      "5qzz6gcsask0": "s’il vous plaît entrer un mot-clé de recherche ",
+      "5qzz6gcsc8c0": "sauvegarder"
+    }
+  },
+  "help-center": {
+    "help-center": {
+      "5qzz72f8weo0": "apprendre à trader ",
+      "5qzz72f8y100": "service client en ligne ",
+      "5qzz72f8yh00": "nous contacter ",
+      "5qzz72f8yoo0": "laisser un commentaire ",
+      "5qzz72f8yuc0": "foire aux questions"
+    }
+  },
+  "contact-us": {
+    "contact-us": {
+      "5qzz7f8z5200": "Royaume-Uni"
+    }
+  },
+  "learn-how-to-trade": {
+    "learn-how-to-trade": {
+      "5qzz7rvgs6s0": "essentiels du trading ",
+      "5qzz7rvgv1g0": "politique de trading pour les débutants ",
+      "5qzz7rvgvpo0": "psychologie du trading"
+    }
+  },
+  "leave-feedback": {
+    "leave-feedback": {
+      "5qzz8bsvc0k0": "vos commentaires d’utilisation sont une aide puissante pour notre amélioration continue",
+      "5qzz8bsvdbc0": "feedback ",
+      "5qzz8bsvdms0": "soumettre"
+    }
+  },
+  "online-customer": {
+    "online-customer": {
+      "5qzz8np4icg0": "modifier le texte"
+    }
+  },
+  "message-setting": {
+    "message-setting": {
+      "5qzz90njz780": "s’abonner aux notifications ",
+      "5qzz90nk0m00": "boîte de réception ",
+      "5qzz90nk4n00": "ma demande ",
+      "5qzz90nk4zw0": "toutes les actualités"
+    }
+  },
+  "all-news": {
+    "all-news": {
+      "5qzz9du8qls0": "tous ",
+      "5qzz9du8s0w0": "en stock ",
+      "5qzz9du8sb40": "crypto-monnaie ",
+      "5qzz9du8sio0": "forex ",
+      "5qzz9du8snk0": "marché du pétrole brut ",
+      "5qzz9du8ssg0": "monnaie virtuelle"
+    }
+  },
+  "my-request": {
+    "my-request": {
+      "5qzz9v0mahk0": "pas encore de données ",
+      "5qzz9v0mbfg0": "si nous avons besoin de plus d’informations, nous vous contacterons"
+    }
+  },
+  "subscription-notification": {
+    "subscription-notification": {
+      "5qzza6qlfsc0": "si vous ne souhaitez plus recevoir tous nos courriels, cliquez sur le bouton se désabonner de tout ci-dessous. La désinscription peut prendre un certain temps avant d’être effective. Merci de votre patience.",
+      "5qzza6qlh2g0": "mise à jour critique ",
+      "5qzza6qlh8w0": "nous vous enverrons toujours des notifications et des courriels concernant vos transferts de fonds et les mises à jour clés de compte ",
+      "5qzza6qlhdc0": "ok ",
+      "5qzza6qlhho0": "résultat du trading ",
+      "5qzza6qlhmg0": "partager les résultats des trades fermés ",
+      "5qzza6qlht40": "partager les résultats d’une transaction après la clôture ",
+      "5qzza6qlhxg0": "traitement terminé ",
+      "5qzza6qli1o0": "notifications push ",
+      "5qzza6qli8g0": "boîte aux lettres ",
+      "5qzza6qlic80": "formation et stratégie de trading ",
+      "5qzza6qligg0": "devenez un trader plus exceptionnel et créez votre stratégie de trading avec nos manuels, guides et vidéos ",
+      "5qzza6qlik40": "annonce du webinaire",
+      "5qzza6qlio40": "suivez nos webinaires pour obtenir des informations uniques d’experts de l’industrie et de traders expérimentés ",
+      "5qzza6qlis00": "rapport ",
+      "5qzza6qlivk0": "rappel d’appel de marge ",
+      "5qzza6qlizk0": "vous recevrez un appel de marge lorsque la transaction entraîne un manque de fonds sur votre compte ",
+      "5qzza6qlj3g0": "rappel de position fermée ",
+      "5qzza6qlj740": "lorsque toutes vos transactions sont fermées pour éviter de nouvelles pertes, la province émettra une fermeture forcée ",
+      "5qzza6qljb80": "transfert de fonds ",
+      "5qzza6qljik0": "le transfert de fonds vous enverra une notification instantanée lorsque le dépôt et le retrait sont réussies ",
+      "5qzza6qljm80": "notifier ",
+      "5qzza6qljq00": "communication ",
+      "5qzza6qljt40": "téléphone ",
+      "5qzza6qljwk0": "s’abonner à tous ",
+      "5qzza6qljzw0": "se désabonner de tout"
+    }
+  },
+  "inbox": {
+    "inbox": {
+      "5qzzaud71dw0": "pas de nouvelles pour l’instant ",
+      "5qzzaud73hg0": "analyse ",
+      "5qzzaud73ug0": "notifier ",
+      "5qzzaud746k0": "aujourd’hui ",
+      "5qzzaud74fw0": "rapport de performance hebdomadaire ",
+      "5qzzaud74rk0": "rapport de performance mensuel ",
+      "5qzzaud752s0": "stop line a été atteint ",
+      "5qzzaud758w0": "compte de caisse ",
+      "5qzzaud75e80": "le niveau stop loss a été atteint ",
+      "5qzzaud75ko0": "le montant de votre marge est inférieur. S’il vous plaît déposer sur le compte, annuler une partie de l’ordre ou fermer une partie de la position ",
+      "5qzzaud75ug0": "dépôt ",
+      "5r051jhx1d80": "votre dépôt sur le nom du logiciel a été traité avec succès ",
+      "5r052lwjw3s0": "acheté ",
+      "5r052lwjxg00": "vendu ",
+      "5r05509do5s0": "compte en dollars"
+    }
+  },
+  "completed-transaction": {
+    "completed-transaction": {
+      "5qzzbe5rimw0": "résultat ",
+      "5qzzbe5rjow0": "le rapport sera envoyé à votre adresse e-mail ",
+      "5qzzbe5rk0g0": "annulé ",
+      "5qzzbe5rk780": "envoyer ",
+      "5qzzbe5rkdo0": "numéro de commande ",
+      "5qzzbe5rkjs0": "le côté déclencheur ",
+      "5qzzbe5rkow0": "monnaie ",
+      "5qzzbe5rkv00": "frais de nuit ",
+      "5qzzbe5rl0o0": "modification réussie ",
+      "5qzzbe5rl5w0": "position ouverte ",
+      "5qzzbe5rlak0": "réglé"
+    }
+  },
+  "deposit": {
+    "deposit": {
+      "5qzzbrfh5fk0": "traitement terminé ",
+      "5qzzbrfh6ik0": "monnaie ",
+      "5qzzbrfh6sk0": "quantité ",
+      "5qzzbrfh7l00": "détails de paiement ",
+      "5qzzbrfh7uw0": "numéro de commande ",
+      "5qzzbrfh99g0": "temps de commande"
+    }
+  },
+  "performance-report": {
+    "performance-report": {
+      "5qzzc4k554k0": "bonjour trader ",
+      "5qzzc4k5cog0": "nous sommes là pour vous aider ",
+      "5qzzc4k5d9s0": "si vous avez des questions, s’il vous plaît utiliser notre service de chat en direct ou ",
+      "5qzzc4k5djo0": "adresse e-mail ",
+      "5qzzc4k5dq40": "contactez-nous. Nous sommes là 24 heures sur 24.",
+      "5qzzc4k5dwc0": "les CFD sont des instruments complexes et comportent un risque élevé de perte d’argent rapide en raison de l’effet de levier.",
+      "5qzzc4k5e140": "voici les principales données de trading pour votre compte USD du 15 mai 2023 au 21 mai 2023 ",
+      "5qzzc4k5e680": "échange ",
+      "5qzzc4k5ebk0": "volume total ",
+      "5qzzc4k5eg80": "transactions totales ",
+      "5qzzc4k5ekw0": "commerce court/long ",
+      "5qzzc4k5ets0": "une affaire rentable ",
+      "5qzzc4k5ez40": "le commerce de perte ",
+      "5qzzc4k5f640": "gain par transaction ",
+      "5qzzc4k5fbc0": "profit moyen ",
+      "5qzzc4k5fjo0": "perte moyenne ",
+      "5qzzc4k5fp80": "tenir la durée ",
+      "5qzzc4k5fuk0": "temps moyen de profit ",
+      "5qzzc4k5fz80": "temps moyen perdu ",
+      "5r0yq9tynhc0": "compte ",
+      "5r0yq9typv80": "à"
+    }
+  },
+  "components": {
+    "closing-transaction": {
+      "5qzzdcn125o0": "deal de clôture du jour ",
+      "5qzzdcn13ls0": "vendu ",
+      "5qzzdcn13tc0": "acheter ",
+      "5qzzdcn13y80": "lundi ",
+      "5qzzdcn142g0": "mardi ",
+      "5qzzdcn147s0": "mercredi ",
+      "5qzzdcn14cc0": "jeudi ",
+      "5qzzdcn14gw0": "vendredi ",
+      "5qzzdcn14ls0": "samedi ",
+      "5qzzdcn14q00": "dimanche"
+    },
+    "highest-profit": {
+      "5qzzdr15y3s0": "position la plus rentable ",
+      "5qzzdr15zp80": "nom ",
+      "5qzzdr1601k0": "quantité ",
+      "5qzzdr1607c0": "cours d’ouverture/de clôture ",
+      "5qzzdr160e00": "taux d’intérêt ",
+      "5qzzdr160js0": "cuivre"
+    },
+    "loss-ranking": {
+      "5qzze2jwz0s0": "classement des pertes ",
+      "5qzze2jx3740": "nom ",
+      "5qzze2jx3rg0": "quantité ",
+      "5qzze2jx3y00": "cours d’ouverture/de clôture ",
+      "5qzze2jx4340": "taux d’intérêt"
+    },
+    "low-margin-market": {
+      "5qzzef7zaig0": "le marché avec le plus bas profit ",
+      "5qzzef7zbrw0": "vendu ",
+      "5qzzef7zc1w0": "acheter ",
+      "5qzzef7zc8w0": "compte humeur ",
+      "5qzzef7zcfc0": "sentiment du marché ",
+      "5qzzef7zcm40": "pas terminé ce tableau pour le moment"
+    },
+    "maximum-asset": {
+      "5qzzf3tbrm80": "l’actif le plus échangé du 15/05/2023 au 21/05/2023 ",
+      "5qzzf3tbstw0": "vendredi ",
+      "5qzzf3tbt800": "samedi ",
+      "5qzzf3tbtg40": "les atouts"
+    },
+    "profit-and-loss": {
+      "5qzzfir8iws0": "profit/perte réalisé quotidiennement ",
+      "5qzzfir8khk0": "lundi ",
+      "5qzzfir8kwg0": "mardi ",
+      "5qzzfir8l5k0": "mercredi ",
+      "5qzzfir8lec0": "jeudi ",
+      "5qzzfir8lks0": "vendredi ",
+      "5qzzfir8lqg0": "samedi ",
+      "5qzzfir8lw00": "dimanche ",
+      "5qzzfir8m1o0": "nombre total d’inscriptions"
+    },
+    "profitable-market": {
+      "5qzzfstq5d00": "le marché le plus rentable ",
+      "5qzzfstq6ic0": "vendu ",
+      "5qzzfstq6p80": "acheter ",
+      "5qzzfstq6tk0": "compte humeur ",
+      "5qzzfstq6xs0": "sentiment du marché ",
+      "5qzzfstq72g0": "pas terminé ce tableau pour le moment ",
+      "5qzzfstq76o0": "seat ",
+      "5qzzfstq7ak0": "wanyanmi"
+    }
+  },
+  "language-setting": {
+    "language-setting": {
+      "5r0s389cbjk0": "sauvegarder ",
+      "5r0s389cea00": "veuillez noter ",
+      "5r0s389ceqg0": "êtes-vous sûr de vouloir changer la langue en XXXX?",
+      "5r0s389cf080": "annulé ",
+      "5r0s389cf9c0": "ok ",
+      "5r0s389cfiw0": "chinois traditionnel ",
+      "5r0s93glpkg0": "chinois simplifié"
+    }
+  }
+}

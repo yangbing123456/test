@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-loading-icon": "/node-modules/uview-ui/components/u-loading-icon/u-loading-icon",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

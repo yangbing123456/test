@@ -1,0 +1,1000 @@
+{
+    "home": {
+        "home": {
+            "5qz9yji27ew0": "现金账户A",
+            "5qz9yji28vs0": "钱包总额",
+            "5qz9yji29780": "可用余额",
+            "5qz9yji29fk0": "热门股票",
+            "5qz9yji2j900": "名称",
+            "5qz9yji2k4g0": "类型(股票/指数等)",
+            "5qz9yji2kds0": "点击跳转到登陆页面",
+            "5qz9yji2kj80": "股票1",
+            "5qz9yji2kts0": "股票2",
+            "5qz9yji2kz80": "股票3",
+            "5qz9yji2l780": "股票4",
+            "5qz9yji2lhk0": "股票",
+            "5qz9yji2lsg0": "指数",
+            "5qz9yji2lyo0": "原油",
+            "5qz9yji2m840": "正确率"
+        }
+    },
+    "price": {
+        "price": {
+            "5qzag43g3h80": "请输入搜索关键字",
+            "5qzag43g4m80": "名称/成交额",
+            "5qzag43g4ww0": "小时变化",
+            "5qzag43g5200": "最后价格",
+            "5qzag43g56s0": "自选",
+            "5qzag43g5c00": "热门",
+            "5qzag43g5gg0": "周末交易",
+            "5qzag43g5n80": "商品",
+            "5qzag43g5sw0": "原油市场",
+            "5r02nqlr0qk0": "亿"
+        }
+    },
+    "transaction": {
+        "transaction": {
+            "5qzwxhl8dp80": "买入",
+            "5qzwxhl8esw0": "卖出",
+            "5qzwxhl8ey00": "可用",
+            "5qzwxhl8f100": "数量(BTC)",
+            "5qzwxhl8f400": "保证金要求",
+            "5qzwxhl8f780": "买入,当价格达到",
+            "5qzwxhl8fa40": "有效期至",
+            "5qzwxhl8feg0": "添加日期",
+            "5qzwxhl8fho0": "止损",
+            "5qzwxhl8fkc0": "一般",
+            "5qzwxhl8fn00": "数位",
+            "5qzwxhl8fps0": "打开选项",
+            "5qzwxhl8fs80": "价格水平",
+            "5qzwxhl8fuw0": "价额",
+            "5qzwxhl8fxg0": "数量",
+            "5qzwxhl8g0g0": "暂无数据",
+            "5qzwxhl8g300": "请输入搜索关键字",
+            "5qzwxhl8g5g0": "保证金",
+            "5qzwxhl8g7w0": "开始交易所需金额",
+            "5qzwxhl8gbk0": "好的",
+            "5qzwxhl8gg00": "添加提醒",
+            "5qzwxhl8gi80": "加入收藏",
+            "5qzwxhl8gks0": "委托表展示方式",
+            "5qzwxhl8gmo0": "确认",
+            "5qzwxhl8gp00": "委托表展示深度",
+            "5qzwxhl8gqw0": "订单",
+            "5qzwxhl8gt00": "简介",
+            "5qzwxhl8gus0": "新闻",
+            "5qzwxhl8gww0": "默认",
+            "5qzwxhl8gzs0": "展示买入",
+            "5qzwxhl8h1o0": "展示卖出",
+            "5qzwzzrx5is0": "亏损",
+            "5qzwzzrx71s0": "数位",
+            "5qzwzzrx7980": "盈利",
+            "5qzwzzrx7d40": "最高",
+            "5qzwzzrx7gw0": "最低",
+            "5qzwzzrx7kg0": "交易额"
+        },
+        "trendchart": {
+            "5r02ub67ypw0": "最高",
+            "5r02ub6802s0": "最低",
+            "5r02ub680e00": "交易额",
+            "5r02ub680k80": "暂无数据",
+            "5r02ub680pw0": "订单",
+            "5r02ub680vo0": "深度图",
+            "5r02ub681100": "最新成交"
+        }
+    },
+    "property": {
+        "property": {
+            "5qzx1gr7b0s0": "现金账户A"
+        }
+    },
+    "common": {
+        "GupiaoComponent": {
+            "5qzx35qf9m00": "我的投资组合",
+            "5qzx35qfb7k0": "名称",
+            "5qzx35qfbis0": "类型(股票/指数等)",
+            "5qzx35qfbp40": "股票1",
+            "5qzx35qfbu40": "股票2",
+            "5qzx35qfbzs0": "股票3",
+            "5qzx35qfc5w0": "股票4"
+        },
+        "pagination": {
+            "5qzxas4nxn40": "问卷调查",
+            "5qzxas4nz480": "语言切换",
+            "5qzxas4nzg40": "动效图"
+        }
+    },
+    "login": {
+        "login": {
+            "5qzx4k4llao0": "语言切换",
+            "5qzx4k4lmrk0": "使用Apple继续",
+            "5qzx4k4ln7s0": "使用Google继续",
+            "5qzx4k4lnew0": "使用Facebook继续",
+            "5qzx4k4lnk80": "使用电子邮件继续",
+            "5qzx4k4lnq40": "您已有账号？",
+            "5qzx4k4lnvo0": "登录",
+            "5qzx4k4lo5o0": "通过开立账户，我同意",
+            "5qzx4k4lock0": "隐私政策",
+            "5qzx4k4lohw0": "交易有风险，您可能损失所有投入资金。"
+        }
+    },
+    "register": {
+        "register": {
+            "5qzx5pfvva40": "电子邮箱注册",
+            "5qzx5pfvwhw0": "语言切换",
+            "5qzx5pfvwqc0": "欢迎注册",
+            "5qzx5pfvwvw0": "邮箱",
+            "5qzx5pfvx140": "请输入邮箱号码",
+            "5qzx5pfvx7g0": "密码",
+            "5qzx5pfvxcw0": "请输入邮箱密码",
+            "5qzx5pfvxhw0": "通过开立账户，我同意",
+            "5qzx5pfvxn40": "隐私政策",
+            "5qzx5pfvxs40": "继续",
+            "5qzx5pfvxxg0": "您已有账号？",
+            "5qzx5pfvy2o0": "登录"
+        }
+    },
+    "personInfo": {
+        "personInfo": {
+            "5qzx7hnlw2k0": "居留和国籍",
+            "5qzx7hnlx0o0": "语言切换",
+            "5qzx7hnlx7g0": "请填写个人信息",
+            "5qzx7hnlxao0": "您将加入由巴哈马证券委员会（SIA-F245）授权和监管的",
+            "5qzx7hnlxds0": "软件公司名字",
+            "5qzx7hnlxo00": "继续，即表示您同意我们的",
+            "5qzx7hnlxr40": "隐私政策",
+            "5qzx7hnlxts0": "居住国家",
+            "5qzx7hnlxwg0": "香港特别行政区",
+            "5qzx7hnlxz00": "我不是美国纳税居民",
+            "5qzx7hnly280": "继续",
+            "5qzx7hnly4w0": "您已有账号？",
+            "5qzx7hnly780": "登录",
+            "5qzx913h37s0": "并允许我们就您的应用程序和我们的产品与您联系。"
+        }
+    },
+    "investigate": {
+        "investigate": {
+            "5qzxa22i2fo0": "开启账户的原因",
+            "5qzxa22i3es0": "选择您的答案进入下一题",
+            "5qzxa22i3u80": "进入金融市场",
+            "5qzxa22i42w0": "对冲其他市场",
+            "5qzxa22i49c0": "短期投资"
+        },
+        "investigate2": {
+            "5qzxdmbnlcw0": "开启账户的原因",
+            "5qzxdmbnn5w0": "选择您的答案进入下一题",
+            "5qzxdmbnnhs0": "不到1年",
+            "5qzxdmbnno40": "超过1年",
+            "5qzxdmbnnto0": "超过2年",
+            "5qzxdmbno2w0": "超过4年",
+            "5qzxdmbno980": "完全不"
+        },
+        "investigate3": {
+            "5qzxehscunc0": "您的最高教育水平是什么？",
+            "5qzxehscw1g0": "选择您的答案进入下一题",
+            "5qzxehscwak0": "博士",
+            "5qzxehscwfk0": "硕士",
+            "5qzxehscwk80": "学士",
+            "5qzxehscwps0": "中学"
+        },
+        "investigate4": {
+            "5qzxemt09fg0": "就业情况",
+            "5qzxemt0ak40": "选择您的答案进入下一题",
+            "5qzxemt0aw40": "受雇/自雇",
+            "5qzxemt0b0w0": "已退休",
+            "5qzxemt0b5k0": "待业"
+        },
+        "investigate5": {
+            "5qzxeptzeuo0": "您所从事的行业",
+            "5qzxeptzge00": "选择您的答案进入下一题",
+            "5qzxeptzgsc0": "金融服务",
+            "5qzxeptzgys0": "行政、信息科技和业务支持",
+            "5qzxeptzh3s0": "医疗保健和教育",
+            "5qzxeptzh9g0": "零售和批发贸易",
+            "5qzxeptzhfc0": "采矿业、制造业和建筑业",
+            "5qzxeptzhkw0": "房地产",
+            "5qzxeptzhqg0": "旅游与娱乐",
+            "5qzxeptzhyk0": "运输与物流",
+            "5qzxeptzi3s0": "其他"
+        },
+        "investigate6": {
+            "5qzxes9v8640": "您的年总收入",
+            "5qzxes9v93w0": "选择您的答案进入下一题",
+            "5qzxes9v9fg0": "少于$20,000或更多"
+        },
+        "investigate7": {
+            "5qzxeu86u3s0": "您目前的财富价值是多少",
+            "5qzxeu86vdg0": "选择您的答案进入下一题",
+            "5qzxeu86vno0": "少于$20,000或更多"
+        },
+        "investigate8": {
+            "5qzxewew4cc0": "您的收入和财富来源是什么",
+            "5qzxewew5k00": "选择您的答案进入下一题",
+            "5qzxewew5ug0": "薪金/营业收入",
+            "5qzxewew60k0": "储蓄/投资",
+            "5qzxewew66c0": "养老金/租金",
+            "5qzxewew6co0": "继承权",
+            "5qzxewew6mo0": "借/贷"
+        },
+        "investigate9": {
+            "5qzxezl8nmw0": "您有考虑过自己的风险承担能力和承受损失的能力吗？",
+            "5qzxezl8omo0": "选择您的答案进入下一题",
+            "5qzxezl8ow00": "确定",
+            "5qzxezl8p440": "我可以承受风险并承受损失",
+            "5qzxezl8pbs0": "我无法承担风险或损失"
+        }
+    },
+    "finish": {
+        "finish": {
+            "5qzxn6d8nm80": "恭喜你通过了问卷调查",
+            "5qzxn6d8os40": "现在确认您的身份，之后您就可以进行交易了",
+            "5qzxn6d8p2g0": "继续"
+        }
+    },
+    "userInfo": {
+        "userInfo": {
+            "5qzxo6skag00": "个人信息",
+            "5qzxo6skbm80": "语言切换",
+            "5qzxo6skbwg0": "请输入您的姓名",
+            "5qzxo6skc300": "输入的信息与身份证/护照信息一致",
+            "5qzxo6skc7w0": "男",
+            "5qzxo6skcdc0": "女",
+            "5qzxo6skchs0": "名字",
+            "5qzxo6skcmg0": "请输入您的名字",
+            "5qzxo6ske1c0": "中间名(选填)",
+            "5qzxo6ske880": "请输入您的中间名",
+            "5qzxo6skeck0": "姓",
+            "5qzxo6skeww0": "请输入您的姓",
+            "5qzxo6skf8c0": "继续",
+            "5qzxo6skfe80": "请填写姓名"
+        },
+        "birthday": {
+            "5qzxpqfjtv00": "个人信息",
+            "5qzxpqfjuwg0": "语言切换",
+            "5qzxpqfjv340": "出生日期",
+            "5qzxpqfjv6o0": "输入的信息与身份证/护照信息一致",
+            "5qzxpqfjv9s0": "请输入真实的出生日期",
+            "5qzxpqfjvcw0": "继续"
+        },
+        "adress": {
+            "5qzxqqf1cg40": "个人信息",
+            "5qzxqqf1dpo0": "语言切换",
+            "5qzxqqf1e280": "住址",
+            "5qzxqqf1e9g0": "输入真实的信息",
+            "5qzxqqf1ef80": "街道",
+            "5qzxqqf1enc0": "请输入街道",
+            "5qzxqqf1esw0": "楼号",
+            "5qzxqqf1ey80": "请输入楼号",
+            "5qzxqqf1f400": "公寓",
+            "5qzxqqf1f900": "请输入公寓",
+            "5qzxqqf1fds0": "城市",
+            "5qzxqqf1fj00": "请输入城市",
+            "5qzxqqf1fo00": "继续"
+        },
+        "phone": {
+            "5qzxrcp1ahw0": "个人信息",
+            "5qzxrcp1bx00": "语言切换",
+            "5qzxrcp1c9k0": "电话号码",
+            "5qzxrcp1cfw0": "继续"
+        }
+    },
+    "term": {
+        "term": {
+            "5qzxs1cwpko0": "条款和政策",
+            "5qzxs1cws7g0": "语言切换",
+            "5qzxs1cwzh80": "条款及政策",
+            "5qzxs1cwzwc0": "我声明我已阅读、理解并同意以下内容",
+            "5qzxs1cx0440": "继续"
+        }
+    },
+    "check": {
+        "check": {
+            "5qzxsk7izhk0": "请稍等",
+            "5qzxsk7j0yc0": "我们正在核实您的资料"
+        }
+    },
+    "selfie": {
+        "selfie": {
+            "5qzxszbnauo0": "拍一段自拍视频",
+            "5qzxszbnchc0": "为了安全起见，我们需要实时捕捉，以完成验证过程",
+            "5qzxszbncx80": "身份证件",
+            "5qzxszbnd7s0": "拍摄您的身份证件",
+            "5qzxszbndhs0": "自拍照",
+            "5qzxszbndpc0": "只需要一分钟",
+            "5qzxszbndw00": "点击继续，即表示您接受我们的",
+            "5qzxszbne0w0": "条款和条件",
+            "5qzxszbnfkc0": "并同意我们处理您的个人信息，具体情况见",
+            "5qzxszbnfw00": "个人信息处理同意书",
+            "5qzxszbng1o0": "继续",
+            "5qzxszbng7k0": "由",
+            "5qzxszbngd80": "提供支持"
+        }
+    },
+    "select": {
+        "select": {
+            "5qzxtuylf2g0": "选择您的身份证件的签发国家/地区",
+            "5qzxtuylg640": "香港",
+            "5qzxtuylgeo0": "选择您的文件类型",
+            "5qzxtuylgk80": "点击相机拍照，上传图片",
+            "5qzxtuylgow0": "如果找不到您的文件类型或签发国家，请联系",
+            "5qzxtuylguc0": "客户支持",
+            "5qzxtuylh3g0": "由",
+            "5qzxtuylh840": "提供支持",
+            "5qzxtuylhdg0": "请输入搜索关键字",
+            "5qzxtuylhi00": "您可以通过下列任意方式联系我们：",
+            "5qzxtuylhmc0": "向我们发送电子邮件",
+            "5qzxtuylhqo0": "我们很乐意为您提供帮助。",
+            "5qzxtuylhv00": "只需将您的问题发送给我们即可。",
+            "5qzxtuylikg0": "由Sumsub提供支持",
+            "5qzxtuylj5g0": "护照",
+            "5qzxtuyljk00": "驾照",
+            "5qzxtuyljps0": "身份证",
+            "5qzxtuyljug0": "户口本/居住许可证"
+        }
+    },
+    "Upload": {
+        "Upload": {
+            "5qzxumbbths0": "护照",
+            "5qzxumbbuzo0": "确保文件上的所有信息均清晰可见且易于阅读",
+            "5qzxumbbvb40": "重新拍摄",
+            "5qzxumbbvgs0": "文件可读",
+            "5qzxumbbvlo0": "由",
+            "5qzxumbbvqo0": "提供支持"
+        },
+        "btnDisabled": {
+            "5qzxv368nak0": "上传",
+            "5qzxv368oz80": "模拟弹窗显示错误信息",
+            "5qzxv368pa00": "重新拍摄",
+            "5qzxv368pf00": "文件可读",
+            "5qzxv368pl40": "由",
+            "5qzxv368ppk0": "提供支持",
+            "5qzxv368pu80": "错误提示",
+            "5qzxv368pyo0": "无法准确读取您文件中的信息。请确保数据未被遮挡、清晰且完全可见。同时请确保您选择了正确的文件类型和国家。",
+            "5qzxv368q400": "再试一次"
+        }
+    },
+    "cash-account": {
+        "index": {
+            "5qzy2gp8ieo0": "快速切换到模拟模式",
+            "5qzy2gp8jp40": "退出登录",
+            "5qzy2gp8k140": "账户管理",
+            "5qzy2gp8ka40": "通用设置",
+            "5qzy2gp8kgg0": "消息设置",
+            "5qzy2gp8kng0": "帮助中心"
+        }
+    },
+    "account-manage": {
+        "account-manage": {
+            "5qzy3octe4w0": "我的账户",
+            "5qzy3octhhg0": "账单",
+            "5qzy3octi4o0": "修改密码",
+            "5qzy3octibg0": "设备活动",
+            "5qzy3octigw0": "账户未激活"
+        }
+    },
+    "my-account": {
+        "my-account": {
+            "5qzy4f5vw1c0": "活跃",
+            "5qzy4f5vxbo0": "你确定删除xx账户?",
+            "5qzy4f5vxm00": "取消",
+            "5qzy4f5vxr00": "删除",
+            "5qzy4f5vxvo0": "重命名",
+            "5qzy4f5vy180": "户名",
+            "5qzy4f5vy5w0": "请填写户名",
+            "5qzy4f5vycs0": "确认修改",
+            "5qzy4f5vykc0": "账户名_登录信息",
+            "5qzy4f5vyos0": "外汇杠杆",
+            "5qzy4f5vyso0": "杠杆率",
+            "5qzy4f5vyz80": "完成",
+            "5qzy4f5vz380": "添加现金账户",
+            "5qzy4f5vz8k0": "添加模拟账户",
+            "5qzy4f5vzd40": "现金账户",
+            "5qzy4f5vzgo0": "模拟账户",
+            "5qzy4f5vzl80": "登录",
+            "5qzy4f5vzps0": "服务器",
+            "5qzy4f5vzu40": "服务器1",
+            "5qzy4f5vzzk0": "服务器2",
+            "5qzy4f5w0600": "服务器3",
+            "5qzy4f5w09s0": "服务器4",
+            "5qzy4f5w0dw0": "充值",
+            "5qzy4f5w0i00": "转账",
+            "5qzy4f5w0lk0": "提现",
+            "5qzy4f5w0p40": "交易选项",
+            "5qzy4f5w0ss0": "删除账户",
+            "5qzy4f5w0zg0": "登录信息",
+            "5qzy4f5w13k0": "调节器",
+            "5qzy4f5w18c0": "可用",
+            "5qzy4f5w1bo0": "收益",
+            "5qzy4f5w1eg0": "损益",
+            "5qzy4f5w1hk0": "保证金"
+        }
+    },
+    "top-up": {
+        "top-up": {
+            "5qzy6q26rn40": "继续",
+            "5qzy6q26t3k0": "最近使用的支付方式",
+            "5qzy6q26tg80": "添加新的支付方式",
+            "5qzy6q26tms0": "银行卡",
+            "5qzy6q26tsk0": "银行汇款"
+        }
+    },
+    "band-card": {
+        "band-card": {
+            "5qzy7afbjo00": "数量",
+            "5qzy7afbl400": "请填写数量",
+            "5qzy7afbleg0": "继续",
+            "5qzy7afbln40": "您的资金将被安全保管并受到我们的投资者赔偿政策的保护。"
+        }
+    },
+    "credit-card-information": {
+        "credit-card-information": {
+            "5qzy89dw2dk0": "数量",
+            "5qzy89dw3ic0": "银行卡号码",
+            "5qzy89dw3sc0": "请输入银行卡号",
+            "5qzy89dw3y40": "有效期",
+            "5qzy89dw4340": "请输入有效期",
+            "5qzy89dw4800": "持卡人姓名",
+            "5qzy89dw4cc0": "请输入持卡人姓名",
+            "5qzy89dw4gg0": "持卡人",
+            "5qzy89dw4lc0": "请允许访问相机",
+            "5qzy89dw4q80": "这允许",
+            "5qzy89dw4ug0": "软件名字",
+            "5qzy89dw52k0": "通过访问您的相机上传相片。寻找标有「相机」的切换键。",
+            "5qzy89dw57c0": "取消",
+            "5qzy89dw5cc0": "前往设置",
+            "5qzy89dw5h40": "该日期位于银行卡正免得卡号下方",
+            "5qzy89dw5lk0": "好的",
+            "5qzy89dw5qg0": "信用卡的三位数代码可以在银行卡的背面找到",
+            "5qzy89dw5us0": "外部账户和您存入",
+            "5qzy89dw5yw0": "账户的资金应属于您的名下。任何第三方付款将不被接受。在存入资金到您的",
+            "5qzy89dw63g0": "账户时，您不能使用来自第三方的银行卡和银行账户。",
+            "5qzy89dw69c0": "关闭",
+            "5qzy89dw6f00": "请输入有效的卡片号码/此类卡暂不支持",
+            "5qzy89dw6jc0": "到期日期为必填项",
+            "5qzy89dw6mo0": "需要安全码",
+            "5qzy89dw6q80": "持卡人姓名为必填项",
+            "5qzy89dw6ts0": "验证通过",
+            "5qzy89dw6xc0": "验证失败",
+            "5qzy9t5nqr80": "我确定我是",
+            "5qzyabt4c5s0": "你声明并保证"
+        }
+    },
+    "bank-transfer": {
+        "bank-transfer": {
+            "5qzyb7o2hv40": "温馨提醒",
+            "5qzyb7o2iy00": "佣金；需要最多五个工作日；只接收来自个人银行账户的资金；由于监管原因，我们不能接受来自美国的存款。",
+            "5qzyb7o2j600": "分享付款详情",
+            "5qzyb7o2jb80": "收款人",
+            "5qzyb7o2jfw0": "汇款备注",
+            "5qzyb7o2jkg0": "银行",
+            "5qzyb7o2jrk0": "银行地址",
+            "5qzyb7o2jw80": "货币"
+        }
+    },
+    "trading-options": {
+        "trading-options": {
+            "5qzyd1cj6lw0": "一键交易",
+            "5qzyd1cj7ks0": "一键开仓",
+            "5qzyd1cj7q00": "请注意",
+            "5qzyd1cj7tc0": "我了解一键交易功能启用后，开仓/平仓一键即可，并且无法取消交易",
+            "5qzyd1cj7w00": "取消",
+            "5qzyd1cj7yw0": "启用",
+            "5qzyd1cj81o0": "杠杆率",
+            "5qzyd1cj8480": "常规模式",
+            "5qzyd1cj8780": "反向交易操作会首先关闭现有交易",
+            "5qzyd1cj89o0": "对冲模式",
+            "5qzyd1cj8dg0": "一个市场可以进行双向交易"
+        }
+    },
+    "transfer-money": {
+        "transfer-money": {
+            "5qzyf33vh2g0": "请填写转账金额",
+            "5qzyf33vi1o0": "您的资金将被安全保管并受到我们的投资者赔偿金政策的保护。",
+            "5qzyf33vi6o0": "转账",
+            "5qzyf33vi9o0": "现金账户A",
+            "5qzyf33vics0": "现金账户B"
+        }
+    },
+    "transfer-initiated": {
+        "transfer-initiated": {
+            "5qzyfrqjc8g0": "转账已发起",
+            "5qzyfrqjdmw0": "将从",
+            "5qzyfrqjdx00": "现金账户A（用户命名）",
+            "5qzyfrqje380": "转账至",
+            "5qzyfrqje7s0": "现金账户B（用户命名）",
+            "5qzyfrqjed80": "好的"
+        }
+    },
+    "withdraw-cash": {
+        "withdraw-cash": {
+            "5qzygfbgm400": "可用",
+            "5qzygfbgnh00": "请填写可用资金",
+            "5qzygfbgnw80": "数量",
+            "5qzygfbgo4o0": "请填写提现金额",
+            "5qzygfbgoa80": "金额最小不能低于50，最大不能超过10,000",
+            "5qzygfbgofk0": "确定"
+        }
+    },
+    "cash-success": {
+        "cash-success": {
+            "5qzygwefrkw0": "提现成功，XX小时到账请到对应的提现账户下进行查询",
+            "5qzygweftrg0": "好的"
+        }
+    },
+    "account-verification": {
+        "account-verification": {
+            "5qzyhfsr86w0": "自定义内容",
+            "5qzyhfsrjak0": "已出库",
+            "5qzyhfsrkz40": "运输中",
+            "5qzyhfsrlck0": "我的账户",
+            "5qzyhfsrlis0": "邮箱验证成功",
+            "5qzyhfsrlpk0": "上传身份证明",
+            "5qzyhfsrlus0": "开始交易"
+        }
+    },
+    "leverage": {
+        "leverage": {
+            "5qzyi9ggems0": "好的",
+            "5qzyi9ggg4w0": "货币",
+            "5qzyi9ggggc0": "指数",
+            "5qzyi9gggls0": "商品",
+            "5qzyi9gggqg0": "股票",
+            "5qzyi9gggvo0": "加密货币",
+            "5qzyi9gglgk0": "适用于主要货币对：由以下任意两种组成：美元、欧元、英镑、加元、日元、瑞士法郎",
+            "5qzyi9gglns0": "适用于次要货币对",
+            "5qzyi9ggmz40": "适用于主要货币对：UK100,FR40,DE30,US500,US100,J225,EU50,US30,AU200",
+            "5qzyi9ggn7g0": "适用于黄金",
+            "5qzyi9ggnck0": "适用于除黄金外的所有大宗商品"
+        }
+    },
+    "regulator": {
+        "regulator": {
+            "5qzyj7gx6k40": "可用资金",
+            "5qzyj7gx8bg0": "请填写可用资金",
+            "5qzyj7gx8s80": "确定"
+        }
+    },
+    "select-account-currency": {
+        "select-account-currency": {
+            "5qzyjogft4k0": "创建",
+            "5qzyjogfvzc0": "添加账户",
+            "5qzyjogfwhc0": "户名",
+            "5qzyjogfwq40": "请填写户名"
+        }
+    },
+    "add-simulation-user": {
+        "add-simulation-user": {
+            "5qzykmjxw5k0": "继续",
+            "5qzykmjxxa00": "创建账户以在MT4上进行交易"
+        }
+    },
+    "add-cash-user": {
+        "add-cash-user": {
+            "5qzyl5fr7gk0": "继续",
+            "5qzyl5fr8j40": "创建账户以在MT4上进行交易"
+        }
+    },
+    "bill": {
+        "bill": {
+            "5qzylk6fv0s0": "资金明细",
+            "5qzylk6fwcc0": "交易历史",
+            "5qzylk6fwko0": "历史订单"
+        }
+    },
+    "details-funds": {
+        "details-funds": {
+            "5qzym36ug400": "资金分类",
+            "5qzym36uhqo0": "完成",
+            "5qzym36ui200": "时间分类",
+            "5qzym36ui8o0": "最后时间",
+            "5qzym36uieg0": "手势左右滑动查看更多",
+            "5qzym36uil00": "自定义",
+            "5qzym36uiqg0": "报告将发送至您的邮箱",
+            "5qzym36uivk0": "取消",
+            "5qzym36uj140": "发送",
+            "5qzym36uj680": "全部",
+            "5qzym36ujb80": "存款",
+            "5qzym36ujh00": "提现",
+            "5qzym36ujp80": "转账",
+            "5qzym36ujuk0": "已退还提款",
+            "5qzym36ujzs0": "已完成交易隔夜费",
+            "5qzym36uk4w0": "更正",
+            "5qzym36ukb00": "奖金",
+            "5qzym36ukgw0": "回扣",
+            "5qzym36ukmg0": "佣金",
+            "5qzym36ukro0": "交易滑点保护",
+            "5qzym36ul2g0": "初始资金",
+            "5qzym36ulao0": "修改总额",
+            "5qzym36uljo0": "待审核",
+            "5qzym36uloo0": "当前余额",
+            "5qzym36ulso0": "今日",
+            "5qzym36ulww0": "隔夜费",
+            "5qzym36um0w0": "处理完成",
+            "5qzym36um4s0": "昨日",
+            "5r048henc4w0": "天",
+            "5r04cekgc980": "小时",
+            "5r04cekgdt40": "周",
+            "5r04cekge7c0": "个月"
+        }
+    },
+    "historical-order": {
+        "historical-order": {
+            "5qzymqtku0o0": "资金分类",
+            "5qzymqtkw6o0": "完成",
+            "5qzymqtkwmc0": "时间分类",
+            "5qzymqtkwus0": "最后时间",
+            "5qzymqtkx180": "手势左右滑动查看更多",
+            "5qzymqtkx8w0": "自定义",
+            "5qzymqtkxg00": "报告将发送至您的邮箱",
+            "5qzymqtkxmk0": "取消",
+            "5qzymqtkxt80": "发送",
+            "5qzymqtky240": "全部",
+            "5qzymqtkyd00": "已创建",
+            "5qzymqtkyjk0": "已执行",
+            "5qzymqtkypc0": "被拒",
+            "5qzymqtkywc0": "修改成功",
+            "5qzymqtkz1s0": "已取消",
+            "5qzymqtkz6o0": "失效",
+            "5qzymqtkzec0": "初始资金",
+            "5qzymqtkzk40": "修改总额",
+            "5qzymqtkzow0": "待审核",
+            "5qzymqtkzuk0": "当前余额",
+            "5qzymqtl04w0": "今日",
+            "5qzymqtl0ag0": "订单执行成功",
+            "5qzymqtl0fo0": "股票名称XXXXXXX",
+            "5qzymqtl0j40": "限价单",
+            "5qzymqtl0ms0": "订单创建成功",
+            "5r0sqtef4b00": "小时",
+            "5r0sqtef62g0": "周",
+            "5r0sqtef6bw0": "个月",
+            "5r0sqtef6h80": "天"
+        }
+    },
+    "transaction-history": {
+        "transaction-history": {
+            "5qzyn81k7ww0": "资金分类",
+            "5qzyn81k9jw0": "完成",
+            "5qzyn81k9w40": "时间分类",
+            "5qzyn81ka280": "最后时间",
+            "5qzyn81ka880": "手势左右滑动查看更多",
+            "5qzyn81kags0": "自定义",
+            "5qzyn81kan00": "报告将发送至您的邮箱",
+            "5qzyn81kask0": "取消",
+            "5qzyn81kayg0": "发送",
+            "5qzyn81kb6c0": "全部",
+            "5qzyn81kbbo0": "已开仓",
+            "5qzyn81kbgw0": "已结算",
+            "5qzyn81kbl40": "修改成功",
+            "5qzyn81kbpo0": "隔夜费",
+            "5qzyn81kbu80": "股息调整",
+            "5qzyn81kby80": "初始资金",
+            "5qzyn81kc4o0": "修改总额",
+            "5qzyn81kc9o0": "待审核",
+            "5qzyn81kce00": "当前余额",
+            "5qzyn81kcj40": "今日",
+            "5qzyn81kcqc0": "股票名称XXXXXXX",
+            "5qzyn81kcu80": "昨日",
+            "5qzyn81kcys0": "交易下单成功",
+            "5qzyn81kd2c0": "已完成交易",
+            "5r0skcc64ts0": "天",
+            "5r0sn0b8n3c0": "小时",
+            "5r0sohtdtb00": "周",
+            "5r0sohtdv9w0": "个月"
+        }
+    },
+    "overnight-charge": {
+        "overnight-charge": {
+            "5qzynre76a00": "隔夜费",
+            "5qzynre77fo0": "订单执行成功",
+            "5qzynre77ow0": "订单创建成功",
+            "5qzynre77uo0": "报告将发送至您的邮箱",
+            "5qzynre78040": "取消",
+            "5qzynre786c0": "发送",
+            "5qzynre78b40": "订单ID",
+            "5qzynre78g40": "触发方",
+            "5qzynre78l00": "用户",
+            "5qzynre78ps0": "货币",
+            "5qzynre78uo0": "已开仓",
+            "5qzynre792w0": "已创建",
+            "5qzynre7cac0": "订单价"
+        }
+    },
+    "equipment-activities": {
+        "equipment-activities": {
+            "5qzypnp9yaw0": "活跃会话",
+            "5qzypnp9zgk0": "香港特别行政区",
+            "5qzypnp9zro0": "目前活跃",
+            "5qzypnp9zyo0": "上一会话",
+            "5qzypnpa0440": "昨日-新加坡",
+            "5qzypnpa09k0": "阿拉伯联合酋长国",
+            "5qzypnpa0dw0": "韩国"
+        }
+    },
+    "equipment-activities-children": {
+        "equipment-activities-children": {
+            "5qzyri0lai80": "位置是基于IP地址的近似值",
+            "5qzyri0lbt40": "成功登陆",
+            "5qzyri0lc440": "获取地址失败，将导致部分功能不可用",
+            "5r0y79jbwkg0": "小时前"
+        }
+    },
+    "update-password": {
+        "update-password": {
+            "5qzystpe0s80": "当前密码",
+            "5qzystpe27o0": "请输入当前密码",
+            "5qzystpe2i80": "新密码",
+            "5qzystpe2r00": "请输入新密码",
+            "5qzystpe2x40": "确认密码",
+            "5qzystpe32o0": "请再次输入新密码",
+            "5qzystpe37g0": "保存",
+            "5qzystpe3bs0": "都为必填项",
+            "5qzystpe3ik0": "新密码不一致"
+        }
+    },
+    "general-setting": {
+        "general-setting": {
+            "5qzz5btvxts0": "请注意",
+            "5qzz5btvyvg0": "是否启用？",
+            "5qzz5btvz080": "取消",
+            "5qzz5btvz340": "启用",
+            "5qzz5btvz600": "语言设置",
+            "5qzz5btvzao0": "时区设置",
+            "5qzz5btvze40": "深色模式",
+            "5qzz5btvzhg0": "观察名单类型"
+        }
+    },
+    "watch-list": {
+        "watch-list": {
+            "5qzz5rytb4k0": "效果预览",
+            "5qzz5rytcfk0": "普通视图",
+            "5qzz5rytco00": "精简模式",
+            "5qzz5rytcto0": "卡片模式",
+            "5qzz5rytd200": "交易模式"
+        }
+    },
+    "time-setting": {
+        "time-setting": {
+            "5qzz65haghg0": "请注意",
+            "5qzz65hahp80": "是否启用？",
+            "5qzz65hahx40": "取消",
+            "5qzz65hai2g0": "启用",
+            "5qzz65hai7g0": "自动"
+        }
+    },
+    "time-select": {
+        "time-select": {
+            "5qzz6gcsask0": "请输入搜索关键字",
+            "5qzz6gcsc8c0": "保存"
+        }
+    },
+    "help-center": {
+        "help-center": {
+            "5qzz72f8weo0": "学习如何交易",
+            "5qzz72f8y100": "在线客服",
+            "5qzz72f8yh00": "联系我们",
+            "5qzz72f8yoo0": "留下反馈",
+            "5qzz72f8yuc0": "常见问题"
+        }
+    },
+    "contact-us": {
+        "contact-us": {
+            "5qzz7f8z5200": "英国"
+        }
+    },
+    "learn-how-to-trade": {
+        "learn-how-to-trade": {
+            "5qzz7rvgs6s0": "交易要领",
+            "5qzz7rvgv1g0": "新手交易政策",
+            "5qzz7rvgvpo0": "交易心理学"
+        }
+    },
+    "leave-feedback": {
+        "leave-feedback": {
+            "5qzz8bsvc0k0": "您的使用反馈是我们不断进步的强大助力",
+            "5qzz8bsvdbc0": "反馈",
+            "5qzz8bsvdms0": "提交"
+        }
+    },
+    "online-customer": {
+        "online-customer": {
+            "5qzz8np4icg0": "编辑短信"
+        }
+    },
+    "message-setting": {
+        "message-setting": {
+            "5qzz90njz780": "订阅通知",
+            "5qzz90nk0m00": "收件箱",
+            "5qzz90nk4n00": "我的请求",
+            "5qzz90nk4zw0": "所有新闻"
+        }
+    },
+    "all-news": {
+        "all-news": {
+            "5qzz9du8qls0": "全部",
+            "5qzz9du8s0w0": "股票",
+            "5qzz9du8sb40": "加密货币",
+            "5qzz9du8sio0": "外汇",
+            "5qzz9du8snk0": "原油市场",
+            "5qzz9du8ssg0": "虚拟货币"
+        }
+    },
+    "my-request": {
+        "my-request": {
+            "5qzz9v0mahk0": "暂无数据",
+            "5qzz9v0mbfg0": "如果我们需要更多信息，我们将与您联系"
+        }
+    },
+    "subscription-notification": {
+        "subscription-notification": {
+            "5qzza6qlfsc0": "如果您希望停止接受我们的所有电子邮件，请点击下面“取消订阅所有”按钮。取消订阅可能需要一段时间才能生效，谢谢您的耐心等待。",
+            "5qzza6qlh2g0": "关键更新",
+            "5qzza6qlh8w0": "我们将始终向您发送关于您的资金转账和关键账户更新的通知和电子邮件",
+            "5qzza6qlhdc0": "好的",
+            "5qzza6qlhho0": "交易结果",
+            "5qzza6qlhmg0": "分享已关闭的交易结果",
+            "5qzza6qlht40": "交易关闭后分享交易结果",
+            "5qzza6qlhxg0": "处理完成",
+            "5qzza6qli1o0": "推送通知",
+            "5qzza6qli8g0": "邮箱",
+            "5qzza6qlic80": "培训及交易策略",
+            "5qzza6qligg0": "成为更出色的交易者，并使用使我们教材、指南和视频创建您的交易策略",
+            "5qzza6qlik40": "网络研讨会公告",
+            "5qzza6qlio40": "关注我们的网络研讨会，获取行业专家和经验丰富交易者的独特见解",
+            "5qzza6qlis00": "报告",
+            "5qzza6qlivk0": "追加保证金通知提醒",
+            "5qzza6qlizk0": "当交易导致您的账户资金不足时，您将收到追加保证金通知",
+            "5qzza6qlj3g0": "平仓提醒",
+            "5qzza6qlj740": "当您的所有交易被关闭以防止进一步损失时，将发省强行平仓",
+            "5qzza6qljb80": "资金转账",
+            "5qzza6qljik0": "资金转账将在成功存款和提款时向您发送即时通知",
+            "5qzza6qljm80": "通知",
+            "5qzza6qljq00": "通讯",
+            "5qzza6qljt40": "电话",
+            "5qzza6qljwk0": "订阅所有",
+            "5qzza6qljzw0": "取消订阅所有"
+        }
+    },
+    "inbox": {
+        "inbox": {
+            "5qzzaud71dw0": "暂无消息",
+            "5qzzaud73hg0": "分析",
+            "5qzzaud73ug0": "通知",
+            "5qzzaud746k0": "今日",
+            "5qzzaud74fw0": "每周业绩报告",
+            "5qzzaud74rk0": "每月业绩报告",
+            "5qzzaud752s0": "已达到止盈位",
+            "5qzzaud758w0": "现金账户",
+            "5qzzaud75e80": "已达到止损位",
+            "5qzzaud75ko0": "您的保证金金额较低。请为账户存款、取消部分订单或平仓部分头寸",
+            "5qzzaud75ug0": "存款",
+            "5r051jhx1d80": "您在软件名称的存款已成功处理",
+            "5r052lwjw3s0": "已买入",
+            "5r052lwjxg00": "已卖出",
+            "5r05509do5s0": "账户美元"
+        }
+    },
+    "completed-transaction": {
+        "completed-transaction": {
+            "5qzzbe5rimw0": "结果",
+            "5qzzbe5rjow0": "报告将发送至您的邮箱",
+            "5qzzbe5rk0g0": "取消",
+            "5qzzbe5rk780": "发送",
+            "5qzzbe5rkdo0": "订单ID",
+            "5qzzbe5rkjs0": "触发方",
+            "5qzzbe5rkow0": "货币",
+            "5qzzbe5rkv00": "隔夜费",
+            "5qzzbe5rl0o0": "修改成功",
+            "5qzzbe5rl5w0": "已开仓",
+            "5qzzbe5rlak0": "已结算"
+        }
+    },
+    "deposit": {
+        "deposit": {
+            "5qzzbrfh5fk0": "处理完成",
+            "5qzzbrfh6ik0": "货币",
+            "5qzzbrfh6sk0": "数量",
+            "5qzzbrfh7l00": "付款详情",
+            "5qzzbrfh7uw0": "订单ID",
+            "5qzzbrfh99g0": "订单时间"
+        }
+    },
+    "performance-report": {
+        "performance-report": {
+            "5qzzc4k554k0": "嗨，交易员",
+            "5qzzc4k5cog0": "我们是来帮忙的",
+            "5qzzc4k5d9s0": "如果您有任何问题，请通过我们的实时聊天服务或",
+            "5qzzc4k5djo0": "邮箱地址",
+            "5qzzc4k5dq40": "与我们联系。我们一天24小时都在这里。",
+            "5qzzc4k5dwc0": "差价合约是一种复杂的工具，由于杠杆作用，它具有迅速赔钱的高风险。",
+            "5qzzc4k5e140": "以下是您的USD账户从2023年5月15日至2023年5月21日的主要交易数据",
+            "5qzzc4k5e680": "交换",
+            "5qzzc4k5ebk0": "总体积",
+            "5qzzc4k5eg80": "总交易",
+            "5qzzc4k5ekw0": "空头/多头交易",
+            "5qzzc4k5ets0": "有利可图的交易",
+            "5qzzc4k5ez40": "亏损的交易",
+            "5qzzc4k5f640": "每笔交易收益",
+            "5qzzc4k5fbc0": "平均利润",
+            "5qzzc4k5fjo0": "平均亏损",
+            "5qzzc4k5fp80": "持有时长",
+            "5qzzc4k5fuk0": "平均盈利时间",
+            "5qzzc4k5fz80": "平均损失时间",
+            "5r0yq9tynhc0": "账户",
+            "5r0yq9typv80": "至"
+        }
+    },
+    "components": {
+        "closing-transaction": {
+            "5qzzdcn125o0": "当日收盘交易",
+            "5qzzdcn13ls0": "卖出",
+            "5qzzdcn13tc0": "买入",
+            "5qzzdcn13y80": "星期一",
+            "5qzzdcn142g0": "星期二",
+            "5qzzdcn147s0": "星期三",
+            "5qzzdcn14cc0": "星期四",
+            "5qzzdcn14gw0": "星期五",
+            "5qzzdcn14ls0": "星期六",
+            "5qzzdcn14q00": "星期日"
+        },
+        "highest-profit": {
+            "5qzzdr15y3s0": "利润最高位置",
+            "5qzzdr15zp80": "名字",
+            "5qzzdr1601k0": "数量",
+            "5qzzdr1607c0": "开盘价/收盘价",
+            "5qzzdr160e00": "利率",
+            "5qzzdr160js0": "铜"
+        },
+        "loss-ranking": {
+            "5qzze2jwz0s0": "损失排名",
+            "5qzze2jx3740": "名字",
+            "5qzze2jx3rg0": "数量",
+            "5qzze2jx3y00": "开盘价/收盘价",
+            "5qzze2jx4340": "利率"
+        },
+        "low-margin-market": {
+            "5qzzef7zaig0": "利润最低市场",
+            "5qzzef7zbrw0": "卖出",
+            "5qzzef7zc1w0": "买入",
+            "5qzzef7zc8w0": "账户情绪",
+            "5qzzef7zcfc0": "市场情绪",
+            "5qzzef7zcm40": "暂时没完成这个图表"
+        },
+        "maximum-asset": {
+            "5qzzf3tbrm80": "从2023年5月15日到2023年5月21日，我们交易量最大的资产",
+            "5qzzf3tbstw0": "星期五",
+            "5qzzf3tbt800": "星期六",
+            "5qzzf3tbtg40": "资产"
+        },
+        "profit-and-loss": {
+            "5qzzfir8iws0": "每日实现盈利/亏损",
+            "5qzzfir8khk0": "星期一",
+            "5qzzfir8kwg0": "星期二",
+            "5qzzfir8l5k0": "星期三",
+            "5qzzfir8lec0": "星期四",
+            "5qzzfir8lks0": "星期五",
+            "5qzzfir8lqg0": "星期六",
+            "5qzzfir8lw00": "星期日",
+            "5qzzfir8m1o0": "注册总量"
+        },
+        "profitable-market": {
+            "5qzzfstq5d00": "最赚钱的市场",
+            "5qzzfstq6ic0": "卖出",
+            "5qzzfstq6p80": "买入",
+            "5qzzfstq6tk0": "账户情绪",
+            "5qzzfstq6xs0": "市场情绪",
+            "5qzzfstq72g0": "暂时没完成这个图表",
+            "5qzzfstq76o0": "座",
+            "5qzzfstq7ak0": "万延米"
+        }
+    },
+    "language-setting": {
+        "language-setting": {
+            "5r0s389cbjk0": "保存",
+            "5r0s389cea00": "请注意",
+            "5r0s389ceqg0": "您确定要切换语言至XXXX吗？",
+            "5r0s389cf080": "取消",
+            "5r0s389cf9c0": "确定",
+            "5r0s389cfiw0": "繁体中文",
+            "5r0s93glpkg0": "简体中文"
+        }
+    }
+}
